@@ -33,6 +33,8 @@
 
 [STAR: Sparse Trained Articulated Human Body Regressor](https://arxiv.org/pdf/2008.08535). ECCV, 2020. [[Page]](http://star.is.tue.mpg.de) [[Code]](https://github.com/ahmedosman/STAR)
 
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [[Code]](https://github.com/google-research/google-research/tree/master/ghum)
+
 
 ## Body Pose
 
@@ -70,6 +72,8 @@
 [Full-Body Awareness from Partial Observations](https://arxiv.org/abs/2008.06046). ECCV, 2020. [[Page]](https://crockwell.github.io/partial_humans) [[Code]](https://github.com/crockwell/partial_humans)
 
 [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf). ICCV, 2019. [[Page]](https://www.seas.upenn.edu/~nkolot/projects/spin) [[Code]](https://github.com/nkolot/SPIN)
+
+[I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image](https://arxiv.org/abs/2008.03713). ECCV, 2020.  [[Code]](https://github.com/mks0601/I2L-MeshNet_RELEASE)
 
 [CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image](https://arxiv.org/pdf/2008.12272.pdf). ArXiv, 2020.  [[Code]](https://github.com/Arthur151/CenterHMR)
 
@@ -121,6 +125,8 @@
 
 [NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image](https://arxiv.org/abs/2007.15340). ECCV, 2020. [[Page]](http://www.liuyebin.com/NormalGan/normalgan.html) 
 
+[MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video](http://arxiv.org/abs/2009.10711). ArXiv, 2020.  
+
 
 ## Human Motion
 
@@ -158,6 +164,8 @@
 [3DBodyTex: Textured 3D Body Dataset](https://orbilu.uni.lu/bitstream/10993/36414/1/saint_et_al-3dbodytex-3dv_2018.pdf). 3DV, 2018. [[Page]](https://cvi2.uni.lu/datasets) 
 
 [Motion Capture from Internet Videos](https://arxiv.org/pdf/2008.07931.pdf). ECCV, 2020. [[Page]](https://zju3dv.github.io/iMoCap) [[Code]](https://github.com/zju3dv/iMoCap)
+
+[Full-Body Awareness from Partial Observations](https://arxiv.org/abs/2008.06046). ECCV, 2020. [[Page]](https://crockwell.github.io/partial_humans) [[Code]](https://github.com/crockwell/partial_humans)
 
 -----
 
