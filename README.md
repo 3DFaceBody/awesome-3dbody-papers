@@ -62,6 +62,10 @@
 
 [PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation](https://arxiv.org/pdf/2010.05302). WACV, 2021.  
 
+[Temporal Smoothing for 3D Human Pose Estimation and Localization for Occluded People](https://arxiv.org/abs/2011.00250). ArXiv, 2020.  [[Code]](https://github.com/vegesm/pose_refinement)
+
+[Residual Pose: A Decoupled Approach for Depth-based 3D Human Pose Estimation](https://arxiv.org/pdf/2011.05010.pdf). IROS, 2020.  [[Code]](https://github.com/idiap/residual_pose)
+
 
 ## Naked Body Mesh
 
@@ -80,6 +84,10 @@
 
 [Full-Body Awareness from Partial Observations](https://arxiv.org/abs/2008.06046). ECCV, 2020. [[Page]](https://crockwell.github.io/partial_humans) [[Code]](https://github.com/crockwell/partial_humans)
 
+[3D Multi-bodies: Fitting Sets of Plausible 3D Human Models to Ambiguous Image Data](https://arxiv.org/abs/2011.00980). NeurIPS, 2020.  
+
+[Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [[Page]](https://ait.ethz.ch/projects/2020/learned-body-fitting) 
+
 [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [[Page]](https://akanazawa.github.io/hmr) [[Code]](https://github.com/akanazawa/hmr)
 
 [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf). ICCV, 2019. [[Page]](https://www.seas.upenn.edu/~nkolot/projects/spin) [[Code]](https://github.com/nkolot/SPIN)
@@ -93,6 +101,8 @@
 [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601). CVPR, 2019. [[Page]](https://akanazawa.github.io/human_dynamics) [[Code]](https://github.com/akanazawa/human_dynamics)
 
 [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [[Code]](https://github.com/mkocabas/VIBE)
+
+[3D Human Motion Estimation via Motion Compression and Refinement](https://arxiv.org/abs/2008.03789). ACCV (Oral), 2020. [[Page]](https://zhengyiluo.github.io/projects/meva) [[Code]](https://github.com/ZhengyiLuo/MEVA)
 
 [Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [[Code]](https://github.com/facebookresearch/eft)
 
@@ -150,6 +160,8 @@
 ## Human Motion
 
 
+[Convolutional Autoencoders for Human Motion Infilling](https://arxiv.org/pdf/2010.11531.pdf). 3DV, 2020.  
+
 [Predicting 3D Human Dynamics from Video](https://arxiv.org/abs/1908.04781). ICCV, 2019. [[Page]](https://jasonyzhang.com/phd) [[Code]](https://github.com/jasonyzhang/phd)
 
 [Long-term Human Motion Prediction with Scene Context](https://arxiv.org/pdf/2007.03672.pdf). ECCV (Oral), 2020. [[Page]](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html) [[Code]](https://github.com/ZheC/GTA-IM-Dataset)
@@ -161,6 +173,8 @@
 [Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild](https://arxiv.org/abs/2007.15649). ECCV, 2020. [[Page]](https://jasonyzhang.com/phosa) [[Code]](https://github.com/facebookresearch/phosa)
 
 [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [[Page]](https://prox.is.tue.mpg.de) [[Code]](https://github.com/MohameHassan/PROX)
+
+[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [[Page]](https://grab.is.tue.mpg.de) [[Code]](https://github.com/otaheri/GRAB)
 
 
 ## Animation
