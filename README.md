@@ -99,8 +99,6 @@
 
 [3D Multi-bodies: Fitting Sets of Plausible 3D Human Models to Ambiguous Image Data](https://arxiv.org/abs/2011.00980). NeurIPS, 2020.  
 
-[Human Mesh Recovery from Multiple Shots](https://arxiv.org/abs/2012.09843). ArXiv, 2020. [[Page]](https://geopavlakos.github.io/multishot/) 
-
 [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [[Page]](https://ait.ethz.ch/projects/2020/learned-body-fitting) 
 
 [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [[Page]](https://akanazawa.github.io/hmr) [[Code]](https://github.com/akanazawa/hmr)
@@ -121,9 +119,13 @@
 
 [Learning 3D Human Shape and Pose from Dense Body Parts](https://arxiv.org/pdf/1912.13344.pdf). TPAMI, 2020. [[Page]](https://hongwenzhang.github.io/dense2mesh) [[Code]](https://github.com/HongwenZhang/DaNet-3DHumanReconstruction)
 
-[CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image](https://arxiv.org/pdf/2008.12272.pdf). ArXiv, 2020.  [[Code]](https://github.com/Arthur151/CenterHMR)
+[Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [[Code]](https://github.com/facebookresearch/eft)
 
-[End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760). ArXiv, 2020.  
+[HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). ArXiv, 2020.  [[Code]](https://github.com/Jeff-sjtu/HybrIK)
+
+[Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory](https://arxiv.org/abs/2012.14739). ArXiv, 2020.  
+
+[CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image](https://arxiv.org/pdf/2008.12272.pdf). ArXiv, 2020.  [[Code]](https://github.com/Arthur151/CenterHMR)
 
 [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601). CVPR, 2019. [[Page]](https://akanazawa.github.io/human_dynamics) [[Code]](https://github.com/akanazawa/human_dynamics)
 
@@ -133,7 +135,9 @@
 
 [Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video](https://arxiv.org/abs/2011.08627). ArXiv, 2020.  
 
-[Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [[Code]](https://github.com/facebookresearch/eft)
+[End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760). ArXiv, 2020.  
+
+[Human Mesh Recovery from Multiple Shots](https://arxiv.org/abs/2012.09843). ArXiv, 2020. [[Page]](https://geopavlakos.github.io/multishot/) 
 
 [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf). CVPR (Oral), 2018. [[Page]](https://jhugestar.github.io/totalcapture) 
 
@@ -145,13 +149,11 @@
 
 [Monocular Expressive Body Regression through Body-Driven Attention](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/620/0983.pdf). ECCV, 2020. [[Page]](https://expose.is.tue.mpg.de) [[Code]](https://github.com/vchoutas/expose)
 
+[NeuralAnnot: Neural Annotator for in-the-wild Expressive 3D Human Pose and Mesh Training Sets](https://arxiv.org/abs/2011.11232). ArXiv, 2020. [[Page]](https://mks0601.github.io) 
+
 [Pose2Pose: 3D Positional Pose-Guided 3D Rotational Pose Prediction for Expressive 3D Human Pose and Mesh Estimation](https://arxiv.org/abs/2011.11534). ArXiv, 2020. [[Page]](https://mks0601.github.io) 
 
 [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087). ArXiv, 2020.  
-
-[NeuralAnnot: Neural Annotator for in-the-wild Expressive 3D Human Pose and Mesh Training Sets](https://arxiv.org/abs/2011.11232). ArXiv, 2020. [[Page]](https://mks0601.github.io) 
-
-[HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). ArXiv, 2020.  [[Code]](https://github.com/Jeff-sjtu/HybrIK)
 
 
 ## Clothed Body Mesh [:top:](#table-of-contents)
@@ -270,6 +272,8 @@
 [ANR: Articulated Neural Rendering for Virtual Avatars](https://arxiv.org/pdf/2012.12890.pdf). ArXiv, 2020. [[Page]](https://anr-avatars.github.io) 
 
 [Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild](https://arxiv.org/abs/2012.12884). ArXiv, 2020. [[Page]](https://grail.cs.washington.edu/projects/vid2actor) 
+
+[Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). ArXiv, 2020. [[Page]](https://zju3dv.github.io/neuralbody) 
 
 
 ## Dataset [:top:](#table-of-contents)
