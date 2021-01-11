@@ -63,6 +63,8 @@
 
 [PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation](https://arxiv.org/pdf/2010.05302). WACV, 2021.  
 
+[PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2101.02471). ArXiv, 2021.  
+
 [Temporal Smoothing for 3D Human Pose Estimation and Localization for Occluded People](https://arxiv.org/abs/2011.00250). ArXiv, 2020.  [[Code]](https://github.com/vegesm/pose_refinement)
 
 [MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227). T-BIOM, 2020.  [[Code]](https://github.com/isarandi/metrabs)
@@ -163,19 +165,25 @@
 
 [DeepCap: Monocular Human Performance Capture Using Weak Supervision](https://people.mpi-inf.mpg.de/~mhaberma/projects/2020-cvpr-deepcap/data/paper.pdf). CVPR (Oral), 2020. [[Page]](https://people.mpi-inf.mpg.de/~mhaberma/projects/2020-cvpr-deepcap) 
 
+[MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video](http://arxiv.org/abs/2009.10711). 3DV, 2020.  
+
+[MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera](https://arxiv.org/abs/2004.05815). TVCG, 2020. [[Page]](http://www.liuyebin.com/MulayCap/MulayCap.html) 
+
 [DoubleFusion: Real-time Capture of Human Performance with Inner Body Shape from a Depth Sensor](https://arxiv.org/abs/1804.06023). CVPR (Oral), 2018. [[Page]](http://www.liuyebin.com/doublefusion/doublefusion.htm) [[Code]](http://www.liuyebin.com/doublefusion/doublefusion_software.htm)
 
 [SimulCap : Single-View Human Performance Capture with Cloth Simulation](https://arxiv.org/abs/1903.06323). CVPR, 2019. [[Page]](http://www.liuyebin.com/simulcap/simulcap.html) 
 
 [Robust 3D Self-portraits in Seconds](https://arxiv.org/abs/2004.02460). CVPR (Oral), 2020. [[Page]](http://www.liuyebin.com/portrait/portrait.html) 
 
-[MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera](https://arxiv.org/abs/2004.05815). TVCG, 2020. [[Page]](http://www.liuyebin.com/MulayCap/MulayCap.html) 
-
 [RobustFusion: Human Volumetric Capture with Data-driven Visual Cues using a RGBD Camera](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf). ECCV, 2020.  
+
+[NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image](https://arxiv.org/abs/2007.15340). ECCV, 2020. [[Page]](http://www.liuyebin.com/NormalGan/normalgan.html) 
 
 [Fast Generation of Realistic Virtual Humans](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf). VRST, 2017. [[Page]](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2017/vrst17a.mp4) 
 
 [Realistic Virtual Humans from Smartphone Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf). VRST, 2020. [[Page]](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2020/vrst20.mp4) 
+
+[SiCloPe: Silhouette-Based Clothed People](https://arxiv.org/pdf/1901.00049). CVPR, 2019.  
 
 [SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://arxiv.org/abs/2007.11610). ECCV (Oral), 2020. [[Page]](http://virtualhumans.mpi-inf.mpg.de/sizer) [[Code]](https://github.com/garvita-tiwari/sizer)
 
@@ -184,8 +192,6 @@
 [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/pdf/2004.00452.pdf). CVPR (Oral), 2020. [[Page]](https://shunsukesaito.github.io/PIFuHD) [[Code]](https://github.com/facebookresearch/pifuhd)
 
 [Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction](https://arxiv.org/abs/2006.08072). ArXiv, 2020.  
-
-[SiCloPe: Silhouette-Based Clothed People](https://arxiv.org/pdf/1901.00049). CVPR, 2019.  
 
 [ARCH: Animatable Reconstruction of Clothed Humans](https://arxiv.org/pdf/2004.04572.pdf). CVPR, 2020.  
 
@@ -196,10 +202,6 @@
 [Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction](https://arxiv.org/abs/2007.11432). ECCV (Oral), 2020. [[Page]](https://virtualhumans.mpi-inf.mpg.de/ipnet) [[Code]](https://github.com/bharat-b7/IPNet)
 
 [PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction](https://arxiv.org/abs/2007.03858). TPAMI, 2020. [[Page]](http://www.liuyebin.com/pamir/pamir.html) 
-
-[NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image](https://arxiv.org/abs/2007.15340). ECCV, 2020. [[Page]](http://www.liuyebin.com/NormalGan/normalgan.html) 
-
-[MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video](http://arxiv.org/abs/2009.10711). 3DV, 2020.  
 
 [RIN: Textured Human Model Recovery and Imitation with a Single Image](https://arxiv.org/abs/2011.12024). ArXiv, 2020.  
 
@@ -260,6 +262,8 @@
 [Physically Based Neural Simulator for Garment Animation](https://arxiv.org/abs/2012.11310). ArXiv, 2020.  
 
 [DeepCloth: Neural Garment Representation for Shape and Style Editing](https://arxiv.org/abs/2011.14619). ArXiv, 2020.  
+
+[Example-based Real-time Clothing Synthesis for Virtual Agents](https://arxiv.org/abs/2101.03088). ArXiv, 2021.  
 
 
 ## NeuralRendering [:top:](#table-of-contents)
