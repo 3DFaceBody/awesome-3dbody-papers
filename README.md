@@ -8,16 +8,17 @@
 
 ## Table of Contents
 
-- [Body Model](#body-model)
-- [Body Pose](#body-pose)
-- [Naked Body Mesh](#naked-body-mesh)
-- [Clothed Body Mesh](#clothed-body-mesh)
-- [Human Motion](#human-motion)
-- [Human-Object Interaction](#human-object-interaction)
-- [Animation](#animation)
-- [Cloth/Try-On](#cloth/try-on)
-- [NeuralRendering](#neuralrendering)
-- [Dataset](#dataset)
+- [Body Model](#body-model-toptable-of-contents)
+- [Body Pose](#body-pose-toptable-of-contents)
+- [Naked Body Mesh](#naked-body-mesh-toptable-of-contents)
+- [Clothed Body Mesh](#clothed-body-mesh-toptable-of-contents)
+- [Human Depth Estimation](#human-depth-estimation-toptable-of-contents)
+- [Human Motion](#human-motion-toptable-of-contents)
+- [Human-Object Interaction](#human-object-interaction-toptable-of-contents)
+- [Animation](#animation-toptable-of-contents)
+- [Cloth/Try-On](#cloth/try-on-toptable-of-contents)
+- [NeuralRendering](#neuralrendering-toptable-of-contents)
+- [Dataset](#dataset-toptable-of-contents)
 
 -----
 
@@ -69,6 +70,8 @@
 
 [SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation](https://arxiv.org/abs/2008.11469). ECCV, 2020. [[Page]](https://zju3dv.github.io/SMAP) [[Code]](https://github.com/zju3dv/SMAP)
 
+[PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation](https://openaccess.thecvf.com/content/WACV2021/papers/Guo_PI-Net_Pose_Interacting_Network_for_Multi-Person_Monocular_3D_Pose_Estimation_WACV_2021_paper.pdf). WACV, 2021.  
+
 [Temporal Smoothing for 3D Human Pose Estimation and Localization for Occluded People](https://arxiv.org/abs/2011.00250). ArXiv, 2020.  [[Code]](https://github.com/vegesm/pose_refinement)
 
 [MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227). T-BIOM, 2020.  [[Code]](https://github.com/isarandi/metrabs)
@@ -116,6 +119,8 @@
 [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf). ICCV, 2019. [[Page]](https://www.seas.upenn.edu/~nkolot/projects/spin) [[Code]](https://github.com/nkolot/SPIN)
 
 [3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734.pdf). CVPR, 2020.  [[Code]](https://github.com/zengwang430521/DecoMR)
+
+[Hierarchical Kinematic Human Mesh Recovery](https://arxiv.org/abs/2003.04232). ECCV, 2020. [[Page]](https://cs.gmu.edu/~ggeorgak) 
 
 [I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image](https://arxiv.org/abs/2008.03713). ECCV, 2020.  [[Code]](https://github.com/mks0601/I2L-MeshNet_RELEASE)
 
@@ -199,7 +204,15 @@
 
 [Realistic Virtual Humans from Smartphone Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf). VRST, 2020. [[Page]](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2020/vrst20.mp4) 
 
+[Video Based Reconstruction of 3D People Models](https://arxiv.org/abs/1803.04758). CVPR, 2018. [[Page]](https://graphics.tu-bs.de/people-snapshot) 
+
+[Learning to Reconstruct People in Clothing from a Single RGB Camera](http://virtualhumans.mpi-inf.mpg.de/papers/alldieck19cvpr/alldieck19cvpr.pdf). CVPR, 2019. [[Page]](http://virtualhumans.mpi-inf.mpg.de/octopus) [[Code]](https://github.com/thmoa/octopus)
+
 [SiCloPe: Silhouette-Based Clothed People](https://arxiv.org/pdf/1901.00049). CVPR, 2019.  
+
+[Tex2Shape: Detailed Full Human Body Geometry from a Single Image](https://arxiv.org/abs/1904.08645). ICCV, 2019. [[Page]](http://virtualhumans.mpi-inf.mpg.de/tex2shape) [[Code]](https://github.com/thmoa/tex2shape)
+
+[Multi-Garment Net: Learning to Dress 3D People from Images](http://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2019mgn/bhatnagar2019mgn.pdf). ICCV, 2019. [[Page]](https://virtualhumans.mpi-inf.mpg.de/mgn) 
 
 [SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://arxiv.org/abs/2007.11610). ECCV (Oral), 2020. [[Page]](http://virtualhumans.mpi-inf.mpg.de/sizer) [[Code]](https://github.com/garvita-tiwari/sizer)
 
@@ -212,6 +225,8 @@
 [ARCH: Animatable Reconstruction of Clothed Humans](https://arxiv.org/pdf/2004.04572.pdf). CVPR, 2020.  
 
 [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571). ArXiv, 2021.  
+
+[Detailed Human Avatars from Monocular Video](https://arxiv.org/abs/1808.01338). 3DV, 2018.  [[Code]](https://github.com/thmoa/semantic_human_texture_stitching)
 
 [Monocular Real-Time Volumetric Performance Capture](https://arxiv.org/abs/2007.13988). ECCV, 2020. [[Page]](http://xiuyuliang.cn/monoport) [[Code]](https://github.com/Project-Splinter/MonoPort)
 
@@ -228,8 +243,22 @@
 [Reconstructing NBA Players](https://arxiv.org/abs/2007.13303). ECCV, 2020. [[Page]](http://grail.cs.washington.edu/projects/nba_players) [[Code]](https://github.com/luyangzhu/NBA-Players)
 
 
+## Human Depth Estimation [:top:](#table-of-contents)
+
+
+[Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111). CVPR, 2019. [[Page]](https://mannequin-depth.github.io) [[Code]](https://github.com/google/mannequinchallenge)
+
+[A Neural Network for Detailed Human Depth Estimation from a Single Image](https://arxiv.org/abs/1910.01275). ICCV, 2019.  [[Code]](https://github.com/sfu-gruvi-3dv/deep_human)
+
+[Self-Supervised Human Depth Estimation from Monocular Videos](https://arxiv.org/abs/2005.03358). CVPR, 2020.  [[Code]](https://github.com/sfu-gruvi-3dv/Self-Supervised-Human-Depth)
+
+[DressNet: High Fidelity Depth Estimation of Dressed Humans from a Single View Image](None). ArXiv, 2021.  
+
+
 ## Human Motion [:top:](#table-of-contents)
 
+
+[3D Semantic Trajectory Reconstruction from 3D Pixel Continuum](https://www-users.cs.umn.edu/~jsyoon/JaeShin_homepage/SemanticTrajectory.pdf). CVPR, 2018. [[Page]](https://www-users.cs.umn.edu/~jsyoon/Semantic_trajectory) 
 
 [Convolutional Autoencoders for Human Motion Infilling](https://arxiv.org/pdf/2010.11531.pdf). 3DV, 2020.  
 
@@ -244,6 +273,8 @@
 [GlocalNet: Class-aware Long-term Human Motion Synthesis](https://arxiv.org/abs/2012.10744). MACV, 2021.  
 
 [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [[Page]](https://google.github.io/aichoreographer) 
+
+[A Causal Convolutional Neural Network for Motion Modeling and Synthesis](https://arxiv.org/abs/2101.12276). ArXiv, 2021.  
 
 
 ## Human-Object Interaction [:top:](#table-of-contents)
@@ -279,6 +310,8 @@
 ## Cloth/Try-On [:top:](#table-of-contents)
 
 
+[DeepWrinkles: Accurate and Realistic Clothing Modeling](https://arxiv.org/abs/1808.03417). ECCV (Oral), 2018.  
+
 [Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single-view Images](https://arxiv.org/abs/2003.12753). ECCV (Oral), 2020. [[Page]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited) 
 
 [TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](https://arxiv.org/abs/2003.04583). CVPR (Oral), 2020. [[Page]](http://virtualhumans.mpi-inf.mpg.de/tailornet) [[Code]](https://github.com/chaitanya100100/TailorNet)
@@ -294,6 +327,8 @@
 [BCNet: Learning Body and Cloth Shape from a Single Image](https://arxiv.org/abs/2004.00214). ECCV, 2020.  [[Code]](https://github.com/jby1993/BCNet)
 
 [Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On](https://arxiv.org/abs2009.04592). SCA, 2020. [[Page]](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn) 
+
+[Neural 3D Clothes Retargeting from a Single Image](https://arxiv.org/abs/2102.00062). ArXiv, 2021.  
 
 
 ## NeuralRendering [:top:](#table-of-contents)
