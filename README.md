@@ -64,7 +64,7 @@
 
 [Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329). CVPR, 2020.  [[Code]](https://github.com/fabbrimatteo/LoCO)
 
-[Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986). arXiv, 2020.  [[Code]](https://github.com/HeCraneChen/3D-Crowd-Pose-Estimation-Based-on-MVG)
+[Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986). ArXiv, 2020.  [[Code]](https://github.com/HeCraneChen/3D-Crowd-Pose-Estimation-Based-on-MVG)
 
 [PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation](https://arxiv.org/pdf/2010.05302). WACV, 2021.  
 
@@ -244,6 +244,8 @@
 
 [Reconstructing NBA Players](https://arxiv.org/abs/2007.13303). ECCV, 2020. [[Page]](http://grail.cs.washington.edu/projects/nba_players) [[Code]](https://github.com/luyangzhu/NBA-Players)
 
+[Capturing Detailed Deformations of Moving Human Bodies](https://arxiv.org/abs/2102.07343). ArXiv, 2021.  
+
 
 ## Human Depth Estimation [:top:](#table-of-contents)
 
@@ -264,6 +266,8 @@
 
 [Convolutional Autoencoders for Human Motion Infilling](https://arxiv.org/pdf/2010.11531.pdf). 3DV, 2020.  
 
+[Robust Motion In-betweening](https://arxiv.org/abs/2102.04942). SIGGRAPH, 2020. [[Page]](https://montreal.ubisoft.com/en/robust-motion-in-betweening-2) 
+
 [Predicting 3D Human Dynamics from Video](https://arxiv.org/abs/1908.04781). ICCV, 2019. [[Page]](https://jasonyzhang.com/phd) [[Code]](https://github.com/jasonyzhang/phd)
 
 [Long-term Human Motion Prediction with Scene Context](https://arxiv.org/pdf/2007.03672.pdf). ECCV (Oral), 2020. [[Page]](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html) [[Code]](https://github.com/ZheC/GTA-IM-Dataset)
@@ -277,6 +281,8 @@
 [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [[Page]](https://google.github.io/aichoreographer) 
 
 [A Causal Convolutional Neural Network for Motion Modeling and Synthesis](https://arxiv.org/abs/2101.12276). ArXiv, 2021.  
+
+[Learning Speech-driven 3D Conversational Gestures from Video](https://arxiv.org/abs/2102.06837). ArXiv, 2021.  
 
 
 ## Human-Object Interaction [:top:](#table-of-contents)
@@ -314,6 +320,10 @@
 
 [DeepWrinkles: Accurate and Realistic Clothing Modeling](https://arxiv.org/abs/1808.03417). ECCV (Oral), 2018.  
 
+[Wallpaper Pattern Alignment along Garment Seams](https://igl.ethz.ch/projects/aligned-seams/Aligned-Seams-2019.pdf). SIGGRAPH, 2019. [[Page]](https://igl.ethz.ch/projects/aligned-seams) 
+
+[Reﬂection Symmetry in Textured Sewing Patterns](https://igl.ethz.ch/projects/reflection-symmetry-sewing/sym_wallpaper_patter.pdf). VMV, 2019. [[Page]](https://igl.ethz.ch/projects/reflection-symmetry-sewing) 
+
 [Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single-view Images](https://arxiv.org/abs/2003.12753). ECCV (Oral), 2020. [[Page]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited) 
 
 [TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](https://arxiv.org/abs/2003.04583). CVPR (Oral), 2020. [[Page]](http://virtualhumans.mpi-inf.mpg.de/tailornet) [[Code]](https://github.com/chaitanya100100/TailorNet)
@@ -323,6 +333,8 @@
 [Physically Based Neural Simulator for Garment Animation](https://arxiv.org/abs/2012.11310). ArXiv, 2020.  
 
 [DeepCloth: Neural Garment Representation for Shape and Style Editing](https://arxiv.org/abs/2011.14619). ArXiv, 2020.  
+
+[3D Custom Fit Garment Design with Body Movement](https://arxiv.org/abs/2102.05462). ArXiv, 2021.  
 
 [Example-based Real-time Clothing Synthesis for Virtual Agents](https://arxiv.org/abs/2101.03088). ArXiv, 2021.  
 
@@ -347,6 +359,8 @@
 [Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild](https://arxiv.org/abs/2012.12884). ArXiv, 2020. [[Page]](https://grail.cs.washington.edu/projects/vid2actor) 
 
 [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). ArXiv, 2020. [[Page]](https://zju3dv.github.io/neuralbody) 
+
+[A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://arxiv.org/abs/2102.06199). ArXiv, 2021. [[Page]](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement) 
 
 
 ## Dataset [:top:](#table-of-contents)
