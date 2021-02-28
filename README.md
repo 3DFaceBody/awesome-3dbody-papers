@@ -17,7 +17,7 @@
 - [Human-Object Interaction](#human-object-interaction-toptable-of-contents)
 - [Animation](#animation-toptable-of-contents)
 - [Cloth/Try-On](#cloth/try-on-toptable-of-contents)
-- [NeuralRendering](#neuralrendering-toptable-of-contents)
+- [Neural Rendering](#neural-rendering-toptable-of-contents)
 - [Dataset](#dataset-toptable-of-contents)
 
 -----
@@ -87,6 +87,8 @@
 [MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [[Code]](https://github.com/FORTH-ModelBasedTracker/MocapNET)
 
 [Invariant Teacher and Equivariant Student for Unsupervised 3D Human Pose Estimation](https://arxiv.org/abs/2012.09398). AIII, 2021.  [[Code]](https://github.com/sjtuxcx/ITES)
+
+[A Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video](https://arxiv.org/abs/2003.14179). ArXiv, 2020. [[Page]](http://www.juanrojas.net/gast) [[Code]](https://github.com/fabro66/GAST-Net-3DPoseEstimation)
 
 [Residual Pose: A Decoupled Approach for Depth-based 3D Human Pose Estimation](https://arxiv.org/pdf/2011.05010.pdf). IROS, 2020.  [[Code]](https://github.com/idiap/residual_pose)
 
@@ -332,9 +334,13 @@
 
 [Physically Based Neural Simulator for Garment Animation](https://arxiv.org/abs/2012.11310). ArXiv, 2020.  
 
+[Deep Deformation Detail Synthesis for Thin Shell Models](https://arxiv.org/abs/2102.11541). ArXiv, 2021.  
+
 [DeepCloth: Neural Garment Representation for Shape and Style Editing](https://arxiv.org/abs/2011.14619). ArXiv, 2020.  
 
 [3D Custom Fit Garment Design with Body Movement](https://arxiv.org/abs/2102.05462). ArXiv, 2021.  
+
+[Dynamic Neural Garments](https://arxiv.org/abs/2102.11811). ArXiv, 2021.  
 
 [Example-based Real-time Clothing Synthesis for Virtual Agents](https://arxiv.org/abs/2101.03088). ArXiv, 2021.  
 
@@ -345,7 +351,7 @@
 [Neural 3D Clothes Retargeting from a Single Image](https://arxiv.org/abs/2102.00062). ArXiv, 2021.  
 
 
-## NeuralRendering [:top:](#table-of-contents)
+## Neural Rendering [:top:](#table-of-contents)
 
 
 [Neural3D: Light-weight Neural Portrait Scanning via Context-aware Correspondence Learning](https://dl.acm.org/doi/abs/10.1145/3394171.3413734). ACM MM, 2020.  
