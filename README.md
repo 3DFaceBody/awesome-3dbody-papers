@@ -8,22 +8,22 @@
 
 ## Table of Contents
 
-- [Body Model](#body-model-toptable-of-contents)
-- [Body Pose](#body-pose-toptable-of-contents)
-- [Naked Body Mesh](#naked-body-mesh-toptable-of-contents)
-- [Clothed Body Mesh](#clothed-body-mesh-toptable-of-contents)
-- [Human Depth Estimation](#human-depth-estimation-toptable-of-contents)
-- [Human Motion](#human-motion-toptable-of-contents)
-- [Human-Object Interaction](#human-object-interaction-toptable-of-contents)
-- [Animation](#animation-toptable-of-contents)
-- [Cloth/Try-On](#cloth/try-on-toptable-of-contents)
-- [Neural Rendering](#neural-rendering-toptable-of-contents)
-- [Dataset](#dataset-toptable-of-contents)
+- [Body Model](#body-model)
+- [Body Pose](#body-pose)
+- [Naked Body Mesh](#naked-body-mesh)
+- [Clothed Body Mesh](#clothed-body-mesh)
+- [Human Depth Estimation](#human-depth-estimation)
+- [Human Motion](#human-motion)
+- [Human-Object Interaction](#human-object-interaction)
+- [Animation](#animation)
+- [Cloth/Try-On](#cloth/try-on)
+- [Neural Rendering](#neural-rendering)
+- [Dataset](#dataset)
 
 -----
 
 
-## Body Model [:top:](#table-of-contents)
+## Body Model
 
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [[Page]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html) 
@@ -45,12 +45,12 @@
 [BASH: Biomechanical Animated Skinned Human for Visualization of Kinematics and Muscle Activity](https://www.scitepress.org/Papers/2021/102106/102106.pdf). GRAPP, 2021.  [[Code]](https://github.com/mad-lab-fau/BASH-Model)
 
 
-## Body Pose [:top:](#table-of-contents)
+## Body Pose
 
 
 [MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency](https://arxiv.org/abs/2006.12075). ToG, 2020. [[Page]](http://rubbly.cn/publications/motioNet) [[Code]](https://github.com/Shimingyi/MotioNet)
 
-[VNect: real-time 3D human pose estimation with a single RGB camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf). SIGGRAPH Asia, 2017. [[Page]](http://gvv.mpi-inf.mpg.de/projects/VNect) [[Code]](http://gvv.mpi-inf.mpg.de/projects/VNect)
+[VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf). SIGGRAPH Asia, 2017. [[Page]](http://gvv.mpi-inf.mpg.de/projects/VNect) [[Code]](http://gvv.mpi-inf.mpg.de/projects/VNect)
 
 [XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera](https://arxiv.org/abs/1907.00837). SIGGRAPH, 2020. [[Page]](https://sites.google.com/view/http%3A%2F%2Fgvv.mpi-inf.mpg.de%2Fprojects%2FXNect%2F) [[Code]](https://sites.google.com/view/https%3A%2F%2Fgithub.com%2Fmehtadushy%2FSelecSLS-Pytorch%2F)
 
@@ -101,7 +101,7 @@
 [PoP-Net: Pose over Parts Network for Multi-Person 3D Pose Estimation from a Depth Image](https://arxiv.org/abs/2012.06734). ArXiv, 2020.  [[Code]](https://github.com/idiap/residual_pose)
 
 
-## Naked Body Mesh [:top:](#table-of-contents)
+## Naked Body Mesh
 
 
 [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). ECCV, 2016. [[Page]](http://smplify.is.tue.mpg.de) [[Code]](https://github.com/vchoutas/smplify-x)
@@ -185,7 +185,7 @@
 [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087). ArXiv, 2020.  
 
 
-## Clothed Body Mesh [:top:](#table-of-contents)
+## Clothed Body Mesh
 
 
 [LiveCap: Real-time Human Performance Capture from Monocular Video](https://gvv.mpi-inf.mpg.de/projects/LiveCapV2/data/livecap.pdf). SIGGRAPH, 2019. [[Page]](https://gvv.mpi-inf.mpg.de/projects/LiveCapV2/) 
@@ -257,7 +257,7 @@
 [Capturing Detailed Deformations of Moving Human Bodies](https://arxiv.org/abs/2102.07343). ArXiv, 2021.  
 
 
-## Human Depth Estimation [:top:](#table-of-contents)
+## Human Depth Estimation
 
 
 [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111). CVPR, 2019. [[Page]](https://mannequin-depth.github.io) [[Code]](https://github.com/google/mannequinchallenge)
@@ -269,7 +269,7 @@
 [DressNet: High Fidelity Depth Estimation of Dressed Humans from a Single View Image](None). ArXiv, 2021.  
 
 
-## Human Motion [:top:](#table-of-contents)
+## Human Motion
 
 
 [3D Semantic Trajectory Reconstruction from 3D Pixel Continuum](https://www-users.cs.umn.edu/~jsyoon/JaeShin_homepage/SemanticTrajectory.pdf). CVPR, 2018. [[Page]](https://www-users.cs.umn.edu/~jsyoon/Semantic_trajectory) 
@@ -299,7 +299,7 @@
 [Learning Speech-driven 3D Conversational Gestures from Video](https://arxiv.org/abs/2102.06837). ArXiv, 2021.  
 
 
-## Human-Object Interaction [:top:](#table-of-contents)
+## Human-Object Interaction
 
 
 [Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild](https://arxiv.org/abs/2007.15649). ECCV, 2020. [[Page]](https://jasonyzhang.com/phosa) [[Code]](https://github.com/facebookresearch/phosa)
@@ -313,7 +313,7 @@
 [Holistic 3D Human and Scene Mesh Estimation from Single View Images](https://arxiv.org/abs/2012.01591). ArXiv, 2020.  
 
 
-## Animation [:top:](#table-of-contents)
+## Animation
 
 
 [Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets](http://people.cs.umass.edu/~zhanxu/papers/AnimSkelVolNet.pdf). 3DV (Oral), 2019. [[Page]](https://people.cs.umass.edu/~zhanxu/projects/AnimSkelVolNet/) [[Code]](https://github.com/zhan-xu/AnimSkelVolNet)
@@ -331,7 +331,7 @@
 [UniCon: Universal Neural Controller For Physics-based Character Motion](https://arxiv.org/abs/2011.15119). ArXiv, 2020. [[Page]](https://nv-tlabs.github.io/unicon) 
 
 
-## Cloth/Try-On [:top:](#table-of-contents)
+## Cloth/Try-On
 
 
 [DeepWrinkles: Accurate and Realistic Clothing Modeling](https://arxiv.org/abs/1808.03417). ECCV (Oral), 2018.  
@@ -365,7 +365,7 @@
 [Neural 3D Clothes Retargeting from a Single Image](https://arxiv.org/abs/2102.00062). ArXiv, 2021.  
 
 
-## Neural Rendering [:top:](#table-of-contents)
+## Neural Rendering
 
 
 [Neural3D: Light-weight Neural Portrait Scanning via Context-aware Correspondence Learning](https://dl.acm.org/doi/abs/10.1145/3394171.3413734). ACM MM, 2020.  
@@ -383,7 +383,7 @@
 [A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://arxiv.org/abs/2102.06199). ArXiv, 2021. [[Page]](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement) 
 
 
-## Dataset [:top:](#table-of-contents)
+## Dataset
 
 
 [3DPW: Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf). ECCV, 2018. [[Page]](http://virtualhumans.mpi-inf.mpg.de/3DPW) 
