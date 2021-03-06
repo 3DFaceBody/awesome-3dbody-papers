@@ -42,6 +42,8 @@
 
 [GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [[Code]](https://github.com/google-research/google-research/tree/master/ghum)
 
+[BASH: Biomechanical Animated Skinned Human for Visualization of Kinematics and Muscle Activity](https://www.scitepress.org/Papers/2021/102106/102106.pdf). GRAPP, 2021.  [[Code]](https://github.com/mad-lab-fau/BASH-Model)
+
 
 ## Body Pose [:top:](#table-of-contents)
 
@@ -76,7 +78,9 @@
 
 [Temporal Smoothing for 3D Human Pose Estimation and Localization for Occluded People](https://arxiv.org/abs/2011.00250). ArXiv, 2020.  [[Code]](https://github.com/vegesm/pose_refinement)
 
-[MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227). T-BIOM, 2020.  [[Code]](https://github.com/isarandi/metrabs)
+[Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.html). CVPR (Oral), 2020.  [[Code]](https://github.com/vegesm/pose_refinement)
+
+[MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227). T-BIOM, 2020. [[Page]](https://sites.google.com/a/udayton.edu/jshen1/cvpr2020) [[Code]](https://github.com/lrxjason/Attention3DHumanPose)
 
 [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607). ArXiv, 2020.  
 
@@ -89,6 +93,8 @@
 [Invariant Teacher and Equivariant Student for Unsupervised 3D Human Pose Estimation](https://arxiv.org/abs/2012.09398). AIII, 2021.  [[Code]](https://github.com/sjtuxcx/ITES)
 
 [A Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video](https://arxiv.org/abs/2003.14179). ArXiv, 2020. [[Page]](http://www.juanrojas.net/gast) [[Code]](https://github.com/fabro66/GAST-Net-3DPoseEstimation)
+
+[Real-time Lower-body Pose Prediction from Sparse Upper-body Tracking Signals](https://arxiv.org/abs/2103.01500). ArXiv, 2021.  
 
 [Residual Pose: A Decoupled Approach for Depth-based 3D Human Pose Estimation](https://arxiv.org/pdf/2011.05010.pdf). IROS, 2020.  [[Code]](https://github.com/idiap/residual_pose)
 
@@ -204,6 +210,8 @@
 
 [TexMesh: Reconstructing Detailed Human Texture and Geometry from RGB-D Video](https://arxiv.org/abs/2008.00158). ECCV, 2020. [[Page]](https://research.fb.com/publications/texmesh-reconstructing-detailed-human-texture-and-geometry-from-rgb-d-video) 
 
+[Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction](https://arxiv.org/abs/2012.01451). CVPR (Oral), 2021. [[Page]](https://aljazbozic.github.io/neural_deformation_graphs) 
+
 [Fast Generation of Realistic Virtual Humans](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf). VRST, 2017. [[Page]](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2017/vrst17a.mp4) 
 
 [Realistic Virtual Humans from Smartphone Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf). VRST, 2020. [[Page]](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2020/vrst20.mp4) 
@@ -270,19 +278,23 @@
 
 [Robust Motion In-betweening](https://arxiv.org/abs/2102.04942). SIGGRAPH, 2020. [[Page]](https://montreal.ubisoft.com/en/robust-motion-in-betweening-2) 
 
+[Single-Shot Motion Completion with Transformer](https://arxiv.org/abs/2103.00776). ArXiv, 2021.  [[Code]](https://github.com/FuxiCV/SSMCT)
+
 [Predicting 3D Human Dynamics from Video](https://arxiv.org/abs/1908.04781). ICCV, 2019. [[Page]](https://jasonyzhang.com/phd) [[Code]](https://github.com/jasonyzhang/phd)
 
 [Long-term Human Motion Prediction with Scene Context](https://arxiv.org/pdf/2007.03672.pdf). ECCV (Oral), 2020. [[Page]](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html) [[Code]](https://github.com/ZheC/GTA-IM-Dataset)
 
 [Adversarial Refinement Network for Human Motion Prediction](https://arxiv.org/abs/2011.11221v2). ACCV, 2020.  
 
+[Aggregated Multi-GANs for Controlled 3D Human Motion Prediction](https://nesa.zju.edu.cn/download/Aggregated%20Multi-GANs%20for%20Controlled%203D%20Human%20Motion%20Prediction.pdf). AAAI, 2021.  
+
 [Synthesizing Long-Term 3D Human Motion and Interaction in 3D](https://arxiv.org/pdf/2012.05522.pdf). ArXiv, 2020. [[Page]](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes) 
 
 [GlocalNet: Class-aware Long-term Human Motion Synthesis](https://arxiv.org/abs/2012.10744). MACV, 2021.  
 
-[Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [[Page]](https://google.github.io/aichoreographer) 
-
 [A Causal Convolutional Neural Network for Motion Modeling and Synthesis](https://arxiv.org/abs/2101.12276). ArXiv, 2021.  
+
+[Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [[Page]](https://google.github.io/aichoreographer) 
 
 [Learning Speech-driven 3D Conversational Gestures from Video](https://arxiv.org/abs/2102.06837). ArXiv, 2021.  
 
@@ -311,6 +323,8 @@
 [Skeleton-Aware Networks for Deep Motion Retargeting](https://deepmotionediting.github.io/papers/skeleton-aware-camera-ready.pdf). SIGGRAPH, 2020. [[Page]](https://deepmotionediting.github.io/retargeting) [[Code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 
 [Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions](https://diglib.eg.org/bitstream/handle/10.1111/cgf13947/v39i2pp497-507.pdf). Eurographics, 2020. [[Page]](https://sites.google.com/view/retargetting-tdcn) [[Code]](https://sites.google.com/view/https%3A%2F%2Fgithub.com%2Fmedialab-ku%2Fretargetting-tdcn)
+
+[A Deep Emulator for Secondary Motion of 3D Characters](https://arxiv.org/abs/2103.01261). ArXiv, 2021.  
 
 [DeePSD: Automatic Deep Skinning And Pose Space Deformation For 3D Garment Animation](https://arxiv.org/pdf/2009.02715). ArXiv, 2020.  
 
