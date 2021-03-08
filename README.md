@@ -184,6 +184,8 @@
 
 [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087). ArXiv, 2020.  
 
+[Real-time RGBD-based Extended Body Pose Estimation](https://arxiv.org/abs/2103.03663). WACV, 2021.  [[Code]](https://saic-violet.github.io/rgbd-kinect-pose)
+
 
 ## Clothed Body Mesh
 
@@ -211,6 +213,10 @@
 [TexMesh: Reconstructing Detailed Human Texture and Geometry from RGB-D Video](https://arxiv.org/abs/2008.00158). ECCV, 2020. [[Page]](https://research.fb.com/publications/texmesh-reconstructing-detailed-human-texture-and-geometry-from-rgb-d-video) 
 
 [Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction](https://arxiv.org/abs/2012.01451). CVPR (Oral), 2021. [[Page]](https://aljazbozic.github.io/neural_deformation_graphs) 
+
+[Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](None). CVPR (Oral), 2021.  
+
+[POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture](None). CVPR (Oral), 2021.  
 
 [Fast Generation of Realistic Virtual Humans](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf). VRST, 2017. [[Page]](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2017/vrst17a.mp4) 
 
@@ -267,6 +273,8 @@
 [Self-Supervised Human Depth Estimation from Monocular Videos](https://arxiv.org/abs/2005.03358). CVPR, 2020.  [[Code]](https://github.com/sfu-gruvi-3dv/Self-Supervised-Human-Depth)
 
 [DressNet: High Fidelity Depth Estimation of Dressed Humans from a Single View Image](None). ArXiv, 2021.  
+
+[Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos](https://arxiv.org/abs/2103.03319). CVPR (Oral), 2021. [[Page]](https://www.yasamin.page/hdnet_tiktok) [[Code]](https://github.com/yasaminjafarian/HDNet_TikTok)
 
 
 ## Human Motion
@@ -350,7 +358,7 @@
 
 [Deep Deformation Detail Synthesis for Thin Shell Models](https://arxiv.org/abs/2102.11541). ArXiv, 2021.  
 
-[DeepCloth: Neural Garment Representation for Shape and Style Editing](https://arxiv.org/abs/2011.14619). ArXiv, 2020.  
+[DeepCloth: Neural Garment Representation for Shape and Style Editing](https://arxiv.org/abs/2011.14619). ArXiv, 2020. [[Page]](http://www.liuyebin.com/DeepCloth/DeepCloth.html) 
 
 [3D Custom Fit Garment Design with Body Movement](https://arxiv.org/abs/2102.05462). ArXiv, 2021.  
 
