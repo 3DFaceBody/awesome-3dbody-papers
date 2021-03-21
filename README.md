@@ -122,6 +122,8 @@
 
 [Parametric Shape Estimation of Human Body under Wide Clothing](https://ieeexplore.ieee.org/document/9219144). ACM MM, 2020.  [[Code]](https://github.com/YCL92/SHADER)
 
+[3D Human Pose, Shape and Texture from Low-Resolution Images and Videos](https://arxiv.org/abs/2103.06498). ArXiv, 2021.  
+
 [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [[Page]](https://ait.ethz.ch/projects/2020/learned-body-fitting) 
 
 [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [[Page]](https://akanazawa.github.io/hmr) [[Code]](https://github.com/akanazawa/hmr)
@@ -156,6 +158,8 @@
 
 [Full-body motion capture for multiple closely interacting persons](http://cic.tju.edu.cn/faculty/likun/GM.pdf). CVM, 2020.  
 
+[Coherent Reconstruction of Multiple Humans from a Single Image](https://arxiv.org/pdf/2006.08586.pdf). CVPR, 2020. [[Page]](https://jiangwenpl.github.io/multiperson) [[Code]](https://github.com/JiangWenPL/multiperson)
+
 [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601). CVPR, 2019. [[Page]](https://akanazawa.github.io/human_dynamics) [[Code]](https://github.com/akanazawa/human_dynamics)
 
 [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [[Code]](https://github.com/mkocabas/VIBE)
@@ -167,6 +171,8 @@
 [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760). ArXiv, 2020.  
 
 [Human Mesh Recovery from Multiple Shots](https://arxiv.org/abs/2012.09843). ArXiv, 2020. [[Page]](https://geopavlakos.github.io/multishot/) 
+
+[PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos](https://arxiv.org/abs/2103.09009). ArXiv, 2020.  
 
 [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf). CVPR (Oral), 2018. [[Page]](https://jhugestar.github.io/totalcapture) 
 
@@ -197,6 +203,8 @@
 [MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video](http://arxiv.org/abs/2009.10711). 3DV, 2020.  
 
 [MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera](https://arxiv.org/abs/2004.05815). TVCG, 2020. [[Page]](http://www.liuyebin.com/MulayCap/MulayCap.html) 
+
+[ChallenCap: Monocular 3D Capture of Challenging Human Performances using Multi-Modal References](https://arxiv.org/abs/2103.06747). ArXiv, 2021.  
 
 [Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture](https://arxiv.org/abs/2011.12866). ArXiv, 2020.  
 
@@ -232,6 +240,8 @@
 
 [Multi-Garment Net: Learning to Dress 3D People from Images](http://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2019mgn/bhatnagar2019mgn.pdf). ICCV, 2019. [[Page]](https://virtualhumans.mpi-inf.mpg.de/mgn) 
 
+[3DPeople: Modeling the Geometry of Dressed Humans](https://arxiv.org/abs/1904.04571). ICCV, 2019. [[Page]](https://www.albertpumarola.com/research/3DPeople/index.html) [[Code]](https://github.com/albertpumarola/3DPeople-Dataset)
+
 [SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://arxiv.org/abs/2007.11610). ECCV (Oral), 2020. [[Page]](http://virtualhumans.mpi-inf.mpg.de/sizer) [[Code]](https://github.com/garvita-tiwari/sizer)
 
 [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf). ICCV, 2019. [[Page]](https://shunsukesaito.github.io/PIFu) [[Code]](https://github.com/shunsukesaito/PIFu)
@@ -259,6 +269,8 @@
 [RIN: Textured Human Model Recovery and Imitation with a Single Image](https://arxiv.org/abs/2011.12024). ArXiv, 2020.  
 
 [3D Human Avatar Digitization from a Single Image](https://www.cs.rochester.edu/u/lchen63/vrcai2019.pdf). VRCAI, 2019.  
+
+[SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871). CVPR, 2021. [[Page]](http://www.iri.upc.edu/people/ecorona/smplicit) 
 
 [Reconstructing NBA Players](https://arxiv.org/abs/2007.13303). ECCV, 2020. [[Page]](http://grail.cs.washington.edu/projects/nba_players) [[Code]](https://github.com/luyangzhu/NBA-Players)
 
@@ -290,6 +302,8 @@
 
 [Single-Shot Motion Completion with Transformer](https://arxiv.org/abs/2103.00776). ArXiv, 2021.  [[Code]](https://github.com/FuxiCV/SSMCT)
 
+[Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271). CVPR (Oral), 2021.  
+
 [Predicting 3D Human Dynamics from Video](https://arxiv.org/abs/1908.04781). ICCV, 2019. [[Page]](https://jasonyzhang.com/phd) [[Code]](https://github.com/jasonyzhang/phd)
 
 [Long-term Human Motion Prediction with Scene Context](https://arxiv.org/pdf/2007.03672.pdf). ECCV (Oral), 2020. [[Page]](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html) [[Code]](https://github.com/ZheC/GTA-IM-Dataset)
@@ -297,6 +311,8 @@
 [Adversarial Refinement Network for Human Motion Prediction](https://arxiv.org/abs/2011.11221v2). ACCV, 2020.  
 
 [Aggregated Multi-GANs for Controlled 3D Human Motion Prediction](https://nesa.zju.edu.cn/download/Aggregated%20Multi-GANs%20for%20Controlled%203D%20Human%20Motion%20Prediction.pdf). AAAI, 2021.  
+
+[Aggregated Multi-GANs for Controlled 3D Human Motion Prediction](https://arxiv.org/abs/2103.09755). ArXiv, 2021.  [[Code]](https://github.com/herolvkd/AM-GAN)
 
 [Synthesizing Long-Term 3D Human Motion and Interaction in 3D](https://arxiv.org/pdf/2012.05522.pdf). ArXiv, 2020. [[Page]](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes) 
 
@@ -307,6 +323,8 @@
 [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [[Page]](https://google.github.io/aichoreographer) 
 
 [Learning Speech-driven 3D Conversational Gestures from Video](https://arxiv.org/abs/2102.06837). ArXiv, 2021.  
+
+[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206). ArXiv, 2021.  
 
 
 ## Human-Object Interaction
@@ -382,6 +400,8 @@
 
 [Multi-view Neural Human Rendering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Multi-View_Neural_Human_Rendering_CVPR_2020_paper.pdf). CVPR, 2020. [[Page]](https://wuminye.com/NHR) [[Code]](https://github.com/wuminye/NHR)
 
+[NeuralHumanFVV: Real-Time Neural Volumetric Human Performance Rendering using RGB Cameras](https://arxiv.org/abs/2103.07700). ArXiv, 2021.  
+
 [ANR: Articulated Neural Rendering for Virtual Avatars](https://arxiv.org/pdf/2012.12890.pdf). ArXiv, 2020. [[Page]](https://anr-avatars.github.io) 
 
 [SMPLpix: Neural Avatars from 3D Human Models](https://arxiv.org/abs/2008.06872). WACV, 2020. [[Page]](https://ps.is.mpg.de/publications/smplpix-wacv-2020) [[Code]](https://sergeyprokudin.github.io/smplpix)
@@ -391,6 +411,8 @@
 [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). ArXiv, 2020. [[Page]](https://zju3dv.github.io/neuralbody) 
 
 [A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://arxiv.org/abs/2102.06199). ArXiv, 2021. [[Page]](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement) 
+
+[D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961). ArXiv, 2021. [[Page]](https://www.albertpumarola.com/research/D-NeRF/index.html) 
 
 
 ## Dataset
@@ -403,6 +425,8 @@
 [3DBodyTex: Textured 3D Body Dataset](https://orbilu.uni.lu/bitstream/10993/36414/1/saint_et_al-3dbodytex-3dv_2018.pdf). 3DV, 2018. [[Page]](https://cvi2.uni.lu/datasets) 
 
 [Motion Capture from Internet Videos](https://arxiv.org/pdf/2008.07931.pdf). ECCV, 2020. [[Page]](https://zju3dv.github.io/iMoCap) [[Code]](https://github.com/zju3dv/iMoCap)
+
+[3DPeople: Modeling the Geometry of Dressed Humans](https://arxiv.org/abs/1904.04571). ICCV, 2019. [[Page]](https://cv.iri.upc-csic.es) [[Code]](https://github.com/albertpumarola/3DPeople-Dataset)
 
 [Full-Body Awareness from Partial Observations](https://arxiv.org/abs/2008.06046). ECCV, 2020. [[Page]](https://crockwell.github.io/partial_humans) [[Code]](https://github.com/crockwell/partial_humans)
 
