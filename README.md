@@ -241,6 +241,9 @@
 
 [Real-time RGBD-based Extended Body Pose Estimation](https://arxiv.org/abs/2103.03663). WACV, 2021.  [[Code]](https://saic-violet.github.io/rgbd-kinect-pose)
 
+[Object-Occluded Human Shape and Pose Estimation from a Single Color Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object-Occluded_Human_Shape_and_Pose_Estimation_From_a_Single_Color_CVPR_2020_paper.pdf). CVPR (Oral), 2020.  [[Code]](https://gitee.com/seuvcl/CVPR2020-OOH)
+
+
 
 ## Clothed Body Mesh
 
@@ -516,6 +519,8 @@
 [Full-Body Awareness from Partial Observations](https://arxiv.org/abs/2008.06046). ECCV, 2020. [[Page]](https://crockwell.github.io/partial_humans) [[Code]](https://github.com/crockwell/partial_humans)
 
 [HUMBI: A Large Multiview Dataset of Human Body Expressions](https://arxiv.org/abs/1812.00281). CVPR, 2020. [[Page]](https://humbi-data.net) [[Code]](https://github.com/zhixuany/HUMBI)
+
+[Object-Occluded Human Shape and Pose Estimation from a Single Color Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object-Occluded_Human_Shape_and_Pose_Estimation_From_a_Single_Color_CVPR_2020_paper.pdf). CVPR (Oral), 2020. [[Page]](https://www.yangangwang.com/papers/ZHANG-OOH-2020-03.html) [[Code]](https://gitee.com/seuvcl/CVPR2020-OOH)
 
 [SMPLy Benchmarking 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2012.02743). 3DV (Oral), 2020. [[Page]](https://europe.naverlabs.com/research/computer-vision/mannequin-benchmark) 
 
