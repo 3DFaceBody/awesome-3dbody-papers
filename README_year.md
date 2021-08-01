@@ -158,6 +158,8 @@
 
 [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/abs/2105.02465). CVPR (Oral), 2021. [[Page]](https://jeff95.me) [[Code]](https://github.com/jfzhang95/PoseAug)
 
+[Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows](https://arxiv.org/abs/2107.13788). ICCV, 2021.  [[Code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
+
 [Neural Monocular 3D Human Motion Capture with Physical Awareness](https://arxiv.org/abs/2105.01057). SIGGRAPH, 2021. [[Page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware) 
 
 [PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation](https://arxiv.org/pdf/2010.05302). WACV, 2021.  
@@ -212,8 +214,6 @@
 [3D Human Motion Estimation via Motion Compression and Refinement](https://arxiv.org/abs/2008.03789). ACCV (Oral), 2020. [[Page]](https://zhengyiluo.github.io/projects/meva) [[Code]](https://github.com/ZhengyiLuo/MEVA)
 
 [Parametric Shape Estimation of Human Body under Wide Clothing](https://ieeexplore.ieee.org/document/9219144). ACM MM, 2020.  [[Code]](https://github.com/YCL92/SHADER)
-
-[3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507). ArXiv, 2020. [[Page]](https://hongwenzhang.github.io/pymaf) [[Code]](https://github.com/HongwenZhang/PyMAF)
 
 [Beyond Weak Perspective for Monocular 3D Human Pose Estimation](https://arxiv.org/abs/2009.06549). ArXiv, 2020.  
 
@@ -273,11 +273,13 @@
 
 [Collaborative Regression of Expressive Bodies using Moderation](https://arxiv.org/abs/2105.05301). ArXiv, 2021. [[Page]](https://pixie.is.tue.mpg.de) 
 
+[Everybody Is Unique: Towards Unbiased Human Mesh Recovery](https://arxiv.org/abs/2107.06239). ArXiv, 2021.  
+
 [Heuristic Weakly Supervised 3D Human Pose Estimation in Novel Contexts without Any 3D Pose Ground Truth](https://arxiv.org/abs/2105.10996). ArXiv, 2021.  
 
-[HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668). ArXiv, 2021. [[Page]](https://geometry.stanford.edu/projects/humor) 
-
 [KAMA: 3D Keypoint Aware Body Mesh Articulation](https://arxiv.org/abs/2104.13502). ArXiv, 2021.  
+
+[Learning Local Recurrent Models for Human Mesh Recovery](https://arxiv.org/abs/2107.12847). ArXiv, 2021.  
 
 [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527). ArXiv, 2021. [[Page]](https://pare.is.tue.mpg.de) 
 
@@ -306,6 +308,10 @@
 [Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/abs/2104.00340). CVPR (Oral), 2021. [[Page]](https://zju3dv.github.io/Mirrored-Human) [[Code]](https://github.com/zju3dv/Mirrored-Human)
 
 [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/abs/2104.00683). CVPR (Oral), 2021. [[Page]](https://www.ye-yuan.com/simpoe) 
+
+[HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668). ICCV, 2021. [[Page]](https://geometry.stanford.edu/projects/humor) 
+
+[PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507). ICCV (Oral), 2021. [[Page]](https://hongwenzhang.github.io/pymaf) [[Code]](https://github.com/HongwenZhang/PyMAF)
 
 [TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [[Page]](https://xinyu-yi.github.io/TransPose) 
 
@@ -518,6 +524,8 @@
 
 [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271). CVPR (Oral), 2021. [[Page]](https://boyanjiang.github.io/4D-CR) [[Code]](https://github.com/BoyanJIANG/4D-Compositional-Representation)
 
+[Graph Constrained Data Representation Learning for Human Motion Segmentation](https://arxiv.org/abs/2107.13362). ICCV, 2021.  
+
 [GlocalNet: Class-aware Long-term Human Motion Synthesis](https://arxiv.org/abs/2012.10744). MACV, 2021.  
 
 [Learning a Family of Motor Skills from a Single Motion Clip](http://mrl.snu.ac.kr/research/ProjectParameterizedMotion/ParameterizedMotion.pdf). SIGGRAPH, 2021. [[Page]](http://mrl.snu.ac.kr/research/ProjectParameterizedMotion/ParameterizedMotion.html) [[Code]](https://github.com/syleemrl/ParameterizedMotion)
@@ -667,6 +675,8 @@
 [A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://arxiv.org/abs/2102.06199). ArXiv, 2021. [[Page]](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement) 
 
 [Animatable Neural Radiance Fields for Human Body Modeling](https://arxiv.org/abs/2105.02872). ArXiv, 2021. [[Page]](https://zju3dv.github.io/animatable_nerf) [[Code]](https://github.com/zju3dv/animatable_nerf)
+
+[Few-shot Neural Human Performance Rendering from Sparse RGBD Videos](https://arxiv.org/abs/2107.06505). ArXiv, 2021.  
 
 [MoCo-Flow: Neural Motion Consensus Flow for Dynamic Humans in Stationary Monocular Cameras](https://arxiv.org/abs/2106.04477). ArXiv, 2021.  
 

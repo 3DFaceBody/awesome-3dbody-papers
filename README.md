@@ -79,6 +79,8 @@
 
 [PoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029). ArXiv, 2020.  [[Code]](hhttps://github.com/juyongchang/PoseLifter)
 
+[Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows](https://arxiv.org/abs/2107.13788). ICCV, 2021.  [[Code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
+
 [Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [[Code]](https://github.com/karfly/learnable-triangulation-pytorch)
 
 [FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction](https://arxiv.org/abs/2105.01937). ArXiv, 2021. [[Page]](https://briang13.github.io/FLEX) 
@@ -167,6 +169,8 @@
 
 [Parametric Shape Estimation of Human Body under Wide Clothing](https://ieeexplore.ieee.org/document/9219144). ACM MM, 2020.  [[Code]](https://github.com/YCL92/SHADER)
 
+[Everybody Is Unique: Towards Unbiased Human Mesh Recovery](https://arxiv.org/abs/2107.06239). ArXiv, 2021.  
+
 [3D Human Pose, Shape and Texture from Low-Resolution Images and Videos](https://arxiv.org/abs/2103.06498). ArXiv, 2021.  
 
 [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176). CVPR, 2021. [[Page]](https://tuch.is.tue.mpg.de) 
@@ -203,7 +207,7 @@
 
 [Beyond Weak Perspective for Monocular 3D Human Pose Estimation](https://arxiv.org/abs/2009.06549). ArXiv, 2020.  
 
-[3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507). ArXiv, 2020. [[Page]](https://hongwenzhang.github.io/pymaf) [[Code]](https://github.com/HongwenZhang/PyMAF)
+[PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507). ICCV (Oral), 2021. [[Page]](https://hongwenzhang.github.io/pymaf) [[Code]](https://github.com/HongwenZhang/PyMAF)
 
 [KAMA: 3D Keypoint Aware Body Mesh Articulation](https://arxiv.org/abs/2104.13502). ArXiv, 2021.  
 
@@ -241,9 +245,11 @@
 
 [Self-Attentive 3D Human Pose and Shape Estimation from Videos](https://arxiv.org/abs/2103.14182). ArXiv, 2021.  
 
-[HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668). ArXiv, 2021. [[Page]](https://geometry.stanford.edu/projects/humor) 
+[HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668). ICCV, 2021. [[Page]](https://geometry.stanford.edu/projects/humor) 
 
 [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449). CVPR, 2021. [[Page]](https://sites.google.com/view/humanmeshboa) [[Code]](https://github.com/syguan96/BOA)
+
+[Learning Local Recurrent Models for Human Mesh Recovery](https://arxiv.org/abs/2107.12847). ArXiv, 2021.  
 
 [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf). CVPR (Oral), 2018. [[Page]](https://jhugestar.github.io/totalcapture) 
 
@@ -391,6 +397,8 @@
 
 [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271). CVPR (Oral), 2021. [[Page]](https://boyanjiang.github.io/4D-CR) [[Code]](https://github.com/BoyanJIANG/4D-Compositional-Representation)
 
+[Graph Constrained Data Representation Learning for Human Motion Segmentation](https://arxiv.org/abs/2107.13362). ICCV, 2021.  
+
 [Predicting 3D Human Dynamics from Video](https://arxiv.org/abs/1908.04781). ICCV, 2019. [[Page]](https://jasonyzhang.com/phd) [[Code]](https://github.com/jasonyzhang/phd)
 
 [Long-term Human Motion Prediction with Scene Context](https://arxiv.org/pdf/2007.03672.pdf). ECCV (Oral), 2020. [[Page]](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html) [[Code]](https://github.com/ZheC/GTA-IM-Dataset)
@@ -526,6 +534,8 @@
 [Multi-view Neural Human Rendering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Multi-View_Neural_Human_Rendering_CVPR_2020_paper.pdf). CVPR, 2020. [[Page]](https://wuminye.com/NHR) [[Code]](https://github.com/wuminye/NHR)
 
 [NeuralHumanFVV: Real-Time Neural Volumetric Human Performance Rendering using RGB Cameras](https://arxiv.org/abs/2103.07700). CVPR, 2021.  
+
+[Few-shot Neural Human Performance Rendering from Sparse RGBD Videos](https://arxiv.org/abs/2107.06505). ArXiv, 2021.  
 
 [ANR: Articulated Neural Rendering for Virtual Avatars](https://arxiv.org/pdf/2012.12890.pdf). ArXiv, 2020. [[Page]](https://anr-avatars.github.io) 
 
