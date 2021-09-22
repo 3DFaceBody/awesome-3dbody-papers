@@ -49,6 +49,8 @@
 
 [GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [[Code]](https://github.com/google-research/google-research/tree/master/ghum)
 
+[PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.  
+
 [BASH: Biomechanical Animated Skinned Human for Visualization of Kinematics and Muscle Activity](https://www.scitepress.org/Papers/2021/102106/102106.pdf). GRAPP, 2021.  [[Code]](https://github.com/mad-lab-fau/BASH-Model)
 
 [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871). CVPR, 2021. [[Page]](http://www.iri.upc.edu/people/ecorona/smplicit) [[Code]](https://github.com/enriccorona/SMPLicit)
@@ -77,9 +79,11 @@
 
 [Cascaded Deep Monocular 3D Human Pose Estimation with Evolutionary Training Data](https://arxiv.org/abs/2006.07778). CVPR, 2020.  [[Code]](https://github.com/Nicholasli1995/EvoSkeleton)
 
-[PoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029). ArXiv, 2020.  [[Code]](hhttps://github.com/juyongchang/PoseLifter)
+[PoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029). ArXiv, 2020.  [[Code]](https://github.com/juyongchang/PoseLifter)
 
 [Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows](https://arxiv.org/abs/2107.13788). ICCV, 2021.  [[Code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
+
+[Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation](https://arxiv.org/abs/2108.07181). ICCV, 2021.  [[Code]](https://github.com/ailingzengzzz/Skeletal-GNN)
 
 [Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [[Code]](https://github.com/karfly/learnable-triangulation-pytorch)
 
@@ -117,6 +121,8 @@
 
 [TriPose: A Weakly-Supervised 3D Human Pose Estimation via Triangulation from Video](https://arxiv.org/abs/2105.06599). ArXiv, 2021.  
 
+[Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos](https://arxiv.org/abs/2109.07353). TIP, 2021.  
+
 [MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227). T-BIOM, 2020. [[Page]](https://sites.google.com/a/udayton.edu/jshen1/cvpr2020) [[Code]](https://github.com/lrxjason/Attention3DHumanPose)
 
 [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607). CVPR, 2021.  
@@ -138,6 +144,8 @@
 [Residual Pose: A Decoupled Approach for Depth-based 3D Human Pose Estimation](https://arxiv.org/pdf/2011.05010.pdf). IROS, 2020.  [[Code]](https://github.com/idiap/residual_pose)
 
 [PoP-Net: Pose over Parts Network for Multi-Person 3D Pose Estimation from a Depth Image](https://arxiv.org/abs/2012.06734). ArXiv, 2020.  [[Code]](https://github.com/idiap/residual_pose)
+
+[3D Human Reconstruction in the Wild with Collaborative Aerial Cameras](https://arxiv.org/abs/2108.03936). ArXiv, 2021.  [[Code]](https://youtu.be/jxt91vx0cns)
 
 
 ## Naked Body Mesh
@@ -245,11 +253,17 @@
 
 [Self-Attentive 3D Human Pose and Shape Estimation from Videos](https://arxiv.org/abs/2103.14182). ArXiv, 2021.  
 
+[Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913). ICCV, 2021.  
+
 [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668). ICCV, 2021. [[Page]](https://geometry.stanford.edu/projects/humor) 
 
 [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449). CVPR, 2021. [[Page]](https://sites.google.com/view/humanmeshboa) [[Code]](https://github.com/syguan96/BOA)
 
 [Learning Local Recurrent Models for Human Mesh Recovery](https://arxiv.org/abs/2107.12847). ArXiv, 2021.  
+
+[Probabilistic Modeling for Human Mesh Recovery](https://arxiv.org/abs/2108.11944). ICCV, 2021. [[Page]](https://www.seas.upenn.edu/~nkolot/projects/prohmr/) [[Code]](https://github.com/nkolot/ProHMR)
+
+[Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2109.02303). ICCV, 2021.  [[Code]](https://github.com/ziniuwan/maed)
 
 [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf). CVPR (Oral), 2018. [[Page]](https://jhugestar.github.io/totalcapture) 
 
@@ -268,6 +282,8 @@
 [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087). CVPR, 2021. [[Page]](https://calciferzh.github.io/publications/zhou2021monocular) 
 
 [Collaborative Regression of Expressive Bodies using Moderation](https://arxiv.org/abs/2105.05301). ArXiv, 2021. [[Page]](https://pixie.is.tue.mpg.de) 
+
+[Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras](https://arxiv.org/abs/2108.10378). ICCV, 2021. [[Page]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html) 
 
 [Real-time RGBD-based Extended Body Pose Estimation](https://arxiv.org/abs/2103.03663). WACV, 2021.  [[Code]](https://saic-violet.github.io/rgbd-kinect-pose)
 
@@ -339,6 +355,8 @@
 
 [ARCH: Animatable Reconstruction of Clothed Humans](https://arxiv.org/pdf/2004.04572.pdf). CVPR, 2020.  
 
+[ARCH++: Animation-Ready Clothed Human Reconstruction Revisited](https://arxiv.org/abs/2108.07845). ICCV, 2021.  
+
 [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571). CVPR, 2021.  
 
 [Detailed Human Avatars from Monocular Video](https://arxiv.org/abs/1808.01338). 3DV, 2018.  [[Code]](https://github.com/thmoa/semantic_human_texture_stitching)
@@ -355,9 +373,13 @@
 
 [3D Human Avatar Digitization from a Single Image](https://www.cs.rochester.edu/u/lchen63/vrcai2019.pdf). VRCAI, 2019.  
 
+[Detailed Avatar Recovery from Single Image](https://arxiv.org/abs/2108.02931). TPAMI, 2021.  
+
 [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871). CVPR, 2021. [[Page]](http://www.iri.upc.edu/people/ecorona/smplicit) [[Code]](https://github.com/enriccorona/SMPLicit)
 
-[SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313). CVPR (Oral), 2021. [[Page]](https://scanimate.is.tue.mpg.de) 
+[SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313). CVPR (Oral), 2021. [[Page]](https://scanimate.is.tue.mpg.de) [[Code]](https://github.com/shunsukesaito/SCANimate)
+
+[Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing](https://arxiv.org/abs/2108.08807). ICCV, 2021. [[Page]](https://virtualhumans.mpi-inf.mpg.de/neuralgif) 
 
 [Reconstructing NBA Players](https://arxiv.org/abs/2007.13303). ECCV, 2020. [[Page]](http://grail.cs.washington.edu/projects/nba_players) [[Code]](https://github.com/luyangzhu/NBA-Players)
 
@@ -419,6 +441,16 @@
 
 [Improving Human Motion Prediction Through Continual Learning](https://arxiv.org/abs/2107.00544). ArXiv, 2021.  
 
+[MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction](https://arxiv.org/abs/2108.07152). ICCV, 2021.  [[Code]](https://github.com/Droliven/MSRGCN)
+
+[Stochastic Scene-Aware Motion Prediction](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/652/samp.pdf). ICCV, 2021. [[Page]](https://samp.is.tue.mpg.de) [[Code]](https://github.com/mohamedhassanmus/SAMP)
+
+[Multiscale Spatio-Temporal Graph Neural Networks for 3D Skeleton-Based Motion Prediction](https://arxiv.org/abs/2108.11244). TIP, 2021.  
+
+[Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs](https://arxiv.org/abs/2109.10257). ICCV (Workshop), 2021.  [[Code]](https://github.com/abduallahmohamed/Skeleton-Graph)
+
+[Pose Transformers (POTR): Human Motion Prediction with Non-Autoregressive Transformers](https://arxiv.org/abs/2109.07531). ICCV, 2021.  [[Code]](https://github.com/idiap/potr)
+
 [Synthesizing Long-Term 3D Human Motion and Interaction in 3D](https://arxiv.org/pdf/2012.05522.pdf). CVPR, 2021. [[Page]](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes) [[Code]](https://github.com/jiashunwang/Long-term-Motion-in-3D-Scenes)
 
 [GlocalNet: Class-aware Long-term Human Motion Synthesis](https://arxiv.org/abs/2012.10744). MACV, 2021.  
@@ -451,6 +483,8 @@
 
 [GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [[Page]](https://grab.is.tue.mpg.de) [[Code]](https://github.com/otaheri/GRAB)
 
+[Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844). ICCV, 2021. [[Page]](http://4dqv.mpi-inf.mpg.de/GraviCap/) 
+
 [Populating 3D Scenes by Learning Human-Scene Interaction](https://arxiv.org/abs/2012.11581). CVPR, 2021. [[Page]](https://posa.is.tue.mpg.de) [[Code]](https://github.com/mohamedhassanmus/POSA)
 
 [Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors](https://arxiv.org/abs/2103.17265). CVPR, 2021. [[Page]](http://virtualhumans.mpi-inf.mpg.de/hps) 
@@ -473,6 +507,8 @@
 
 [Skeleton-Aware Networks for Deep Motion Retargeting](https://deepmotionediting.github.io/papers/skeleton-aware-camera-ready.pdf). SIGGRAPH, 2020. [[Page]](https://deepmotionediting.github.io/retargeting) [[Code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 
+[Contact-Aware Retargeting of Skinned Motion](https://arxiv.org/abs/2109.07431). ICCV, 2021.  
+
 [Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions](https://diglib.eg.org/bitstream/handle/10.1111/cgf13947/v39i2pp497-507.pdf). Eurographics, 2020. [[Page]](https://sites.google.com/view/retargetting-tdcn) [[Code]](https://sites.google.com/view/https%3A%2F%2Fgithub.com%2Fmedialab-ku%2Fretargetting-tdcn)
 
 [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/abs/2106.07771). CVPR, 2021.  
@@ -486,6 +522,8 @@
 [UniCon: Universal Neural Controller For Physics-based Character Motion](https://arxiv.org/abs/2011.15119). ArXiv, 2020. [[Page]](https://nv-tlabs.github.io/unicon) 
 
 [Learning Skeletal Articulations With Neural Blend Shapes](https://arxiv.org/abs/2105.02451). SIGGRAPH, 2021. [[Page]](https://peizhuoli.github.io/neural-blend-shapes) [[Code]](https://github.com/PeizhuoLi/neural-blend-shapes)
+
+[Temporal Parameter-free Deep Skinning of Animated Meshes](https://arxiv.org/abs/2109.07249). CGI, 2021. [[Page]](http://www.cgrg.cs.uoi.gr/single-publication?ID=48) 
 
 
 ## Cloth/Try-On
@@ -559,7 +597,13 @@
 
 [Editable Free-viewpoint Video Using a Layered Neural Representation](https://arxiv.org/abs/2104.14786). SIGGRAPH, 2021. [[Page]](https://www.youtube.com/watch?v=Wp4HfOwFGP4) 
 
+[Neural Free-Viewpoint Performance Rendering under Complex Human-object Interactions](https://arxiv.org/abs/2108.00362). ArXiv, 2021.  
+
 [MoCo-Flow: Neural Motion Consensus Flow for Dynamic Humans in Stationary Monocular Cameras](https://arxiv.org/abs/2106.04477). ArXiv, 2021.  
+
+[Rotationally-Temporally Consistent Novel-View Synthesis of Human Performance Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf). ECCV, 2020.  [[Code]](https://github.com/YoungJoongUNC/human_video_novel_view_synthesis)
+
+[Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/abs/2109.07448). ArXiv, 2021. [[Page]](https://youngjoongunc.github.io/nhp) 
 
 
 ## Dataset
