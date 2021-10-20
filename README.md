@@ -81,6 +81,8 @@
 
 [PoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029). ArXiv, 2020.  [[Code]](https://github.com/juyongchang/PoseLifter)
 
+[SRNet: Improving Generalization in 3D Human Pose Estimation with a Split-and-Recombine Approach](https://arxiv.org/abs/2007.09389). ECCV, 2020.  [[Code]](https://github.com/ailingzengzzz/Split-and-Recombine-Net)
+
 [Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows](https://arxiv.org/abs/2107.13788). ICCV, 2021.  [[Code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
 
 [Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation](https://arxiv.org/abs/2108.07181). ICCV, 2021.  [[Code]](https://github.com/ailingzengzzz/Skeletal-GNN)
@@ -185,11 +187,15 @@
 
 [Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild](https://arxiv.org/abs/2103.10978). CVPR, 2021.  
 
+[Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild](https://arxiv.org/abs/2110.00990). ICCV, 2021.  [[Code]](https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman)
+
 [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [[Page]](https://ait.ethz.ch/projects/2020/learned-body-fitting) 
 
 [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [[Page]](https://akanazawa.github.io/hmr) [[Code]](https://github.com/akanazawa/hmr)
 
 [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf). ICCV, 2019. [[Page]](https://www.seas.upenn.edu/~nkolot/projects/spin) [[Code]](https://github.com/nkolot/SPIN)
+
+[Learning to Regress Bodies from Images using Differentiable Semantic Rendering](https://arxiv.org/abs/2110.03480). ICCV, 2021. [[Page]](https://dsr.is.tue.mpg.de/) 
 
 [3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734.pdf). CVPR, 2020.  [[Code]](https://github.com/zengwang430521/DecoMR)
 
@@ -234,6 +240,8 @@
 [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272). ArXiv, 2020.  [[Code]](https://github.com/Arthur151/ROMP)
 
 [Body Meshes as Points](https://arxiv.org/abs/2105.02467). CVPR, 2021. [[Page]](https://jeff95.me) [[Code]](https://github.com/jfzhang95/BMP)
+
+[Shape-aware Multi-Person Pose Estimation from Multi-View Images](https://arxiv.org/abs/2110.02330). ICCV, 2021. [[Page]](https://ait.ethz.ch/projects/2021/multi-human-pose/) [[Code]](https://github.com/zj-dong/Multi-Person-Pose-Estimation)
 
 [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601). CVPR, 2019. [[Page]](https://akanazawa.github.io/human_dynamics) [[Code]](https://github.com/akanazawa/human_dynamics)
 
@@ -288,6 +296,8 @@
 [Real-time RGBD-based Extended Body Pose Estimation](https://arxiv.org/abs/2103.03663). WACV, 2021.  [[Code]](https://saic-violet.github.io/rgbd-kinect-pose)
 
 [TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [[Page]](https://xinyu-yi.github.io/TransPose) 
+
+[SOMA: Solving Optical Marker-Based MoCap Automatically](https://arxiv.org/abs/2110.04431). ICCV, 2021. [[Page]](https://soma.is.tue.mpg.de/) 
 
 
 ## Clothed Body Mesh

@@ -112,6 +112,8 @@
 
 [SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation](https://arxiv.org/abs/2008.11469). ECCV, 2020. [[Page]](https://zju3dv.github.io/SMAP) [[Code]](https://github.com/zju3dv/SMAP)
 
+[SRNet: Improving Generalization in 3D Human Pose Estimation with a Split-and-Recombine Approach](https://arxiv.org/abs/2007.09389). ECCV, 2020.  [[Code]](https://github.com/ailingzengzzz/Split-and-Recombine-Net)
+
 [Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement](https://arxiv.org/abs/2007.07053). ECCV, 2020.  [[Code]](https://github.com/NIEQiang001/unsupervised-human-pose)
 
 [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](None). ECCV (Oral), 2020.  
@@ -319,13 +321,21 @@
 
 [Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2109.02303). ICCV, 2021.  [[Code]](https://github.com/ziniuwan/maed)
 
+[Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild](https://arxiv.org/abs/2110.00990). ICCV, 2021.  [[Code]](https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman)
+
 [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668). ICCV, 2021. [[Page]](https://geometry.stanford.edu/projects/humor) 
+
+[Learning to Regress Bodies from Images using Differentiable Semantic Rendering](https://arxiv.org/abs/2110.03480). ICCV, 2021. [[Page]](https://dsr.is.tue.mpg.de/) 
 
 [Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras](https://arxiv.org/abs/2108.10378). ICCV, 2021. [[Page]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html) 
 
 [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913). ICCV, 2021.  
 
 [Probabilistic Modeling for Human Mesh Recovery](https://arxiv.org/abs/2108.11944). ICCV, 2021. [[Page]](https://www.seas.upenn.edu/~nkolot/projects/prohmr/) [[Code]](https://github.com/nkolot/ProHMR)
+
+[SOMA: Solving Optical Marker-Based MoCap Automatically](https://arxiv.org/abs/2110.04431). ICCV, 2021. [[Page]](https://soma.is.tue.mpg.de/) 
+
+[Shape-aware Multi-Person Pose Estimation from Multi-View Images](https://arxiv.org/abs/2110.02330). ICCV, 2021. [[Page]](https://ait.ethz.ch/projects/2021/multi-human-pose/) [[Code]](https://github.com/zj-dong/Multi-Person-Pose-Estimation)
 
 [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507). ICCV (Oral), 2021. [[Page]](https://hongwenzhang.github.io/pymaf) [[Code]](https://github.com/HongwenZhang/PyMAF)
 
