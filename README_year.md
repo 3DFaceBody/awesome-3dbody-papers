@@ -59,6 +59,8 @@
 ### 2021
 
 
+[LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies](https://arxiv.org/abs/2111.15113). 3DV, 2021. [[Page]](https://latenthuman.github.io/) [[Code]](https://github.com/latenthuman/latenthuman)
+
 [NPMs: Neural Parametric Models for 3D Deformable Shapes](https://arxiv.org/abs/2104.00702). ArXiv, 2021. [[Page]](https://www.youtube.com/watch?v=muZXXgkkMPY) 
 
 [LEAP: Learning Articulated Occupancy of People](https://arxiv.org/abs/2104.06849). CVPR, 2021. [[Page]](https://neuralbodies.github.io/LEAP) [[Code]](https://github.com/neuralbodies/leap)
@@ -85,6 +87,8 @@
 
 
 [MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [[Code]](https://github.com/FORTH-ModelBasedTracker/MocapNET)
+
+[Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://arxiv.org/abs/1901.04111). CVPR, 2019. [[Page]](https://zju3dv.github.io/mvpose) [[Code]](https://github.com/zju3dv/mvpose)
 
 [Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [[Code]](https://github.com/karfly/learnable-triangulation-pytorch)
 
@@ -132,6 +136,8 @@
 ### 2021
 
 
+[High Fidelity 3D Reconstructions with Limited Physical Views](https://arxiv.org/abs/2110.11599). 3DV, 2021. [[Page]](https://sites.google.com/view/high-fidelity-3d-neural-prior) [[Code]](https://github.com/mosamdabhi/neural-shape-prior)
+
 [Invariant Teacher and Equivariant Student for Unsupervised 3D Human Pose Estimation](https://arxiv.org/abs/2012.09398). AAAI, 2021.  [[Code]](https://github.com/sjtuxcx/ITES)
 
 [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/abs/2103.10455). ArXiv, 2021.  [[Code]](https://github.com/zczcwh/PoseFormer)
@@ -139,6 +145,8 @@
 [3D Human Reconstruction in the Wild with Collaborative Aerial Cameras](https://arxiv.org/abs/2108.03936). ArXiv, 2021.  [[Code]](https://youtu.be/jxt91vx0cns)
 
 [FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction](https://arxiv.org/abs/2105.01937). ArXiv, 2021. [[Page]](https://briang13.github.io/FLEX) 
+
+[MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation](https://arxiv.org/abs/2111.12707). ArXiv, 2021.  [[Code]](https://github.com/Vegetebird/MHFormer)
 
 [PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2101.02471). ArXiv, 2021.  
 
@@ -168,11 +176,21 @@
 
 [Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows](https://arxiv.org/abs/2107.13788). ICCV, 2021.  [[Code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
 
+[Direct Multi-view Multi-person 3D Human Pose Estimation](https://arxiv.org/abs/2111.04076). NeurIPS, 2021.  [[Code]](https://github.com/sail-sg/mvp)
+
 [Neural Monocular 3D Human Motion Capture with Physical Awareness](https://arxiv.org/abs/2105.01057). SIGGRAPH, 2021. [[Page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware) 
 
 [Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos](https://arxiv.org/abs/2109.07353). TIP, 2021.  
 
+[Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://arxiv.org/abs/1901.04111). TPAMI, 2021. [[Page]](https://zju3dv.github.io/mvpose) [[Code]](https://github.com/zju3dv/mvpose)
+
 [PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation](https://arxiv.org/pdf/2010.05302). WACV, 2021.  
+
+
+### 2022
+
+
+[Neural MoCon: Neural Motion Control for Physically Plausible Human Motion Capture](https://arxiv.org/abs/2203.14065). CVPR, 2022. [[Page]](https://www.yangangwang.com/papers/HBZ-NM-2022-03.html) 
 
 
 ## Naked Body Mesh
@@ -281,6 +299,8 @@
 
 [3D Human Pose, Shape and Texture from Low-Resolution Images and Videos](https://arxiv.org/abs/2103.06498). ArXiv, 2021.  
 
+[A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose](https://arxiv.org/abs/2111.12696). ArXiv, 2021.  
+
 [Collaborative Regression of Expressive Bodies using Moderation](https://arxiv.org/abs/2105.05301). ArXiv, 2021. [[Page]](https://pixie.is.tue.mpg.de) 
 
 [Everybody Is Unique: Towards Unbiased Human Mesh Recovery](https://arxiv.org/abs/2107.06239). ArXiv, 2021.  
@@ -292,6 +312,8 @@
 [Learning Local Recurrent Models for Human Mesh Recovery](https://arxiv.org/abs/2107.12847). ArXiv, 2021.  
 
 [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527). ArXiv, 2021. [[Page]](https://pare.is.tue.mpg.de) 
+
+[Putting People in their Place: Monocular Regression of 3D People in Depth](https://arxiv.org/abs/2112.08274). ArXiv, 2021.  [[Code]](https://github.com/Arthur151/ROMP)
 
 [Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation](https://arxiv.org/abs/2105.13965). ArXiv, 2021.  
 
@@ -312,6 +334,8 @@
 [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087). CVPR, 2021. [[Page]](https://calciferzh.github.io/publications/zhou2021monocular) 
 
 [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176). CVPR, 2021. [[Page]](https://tuch.is.tue.mpg.de) 
+
+[Out-of-Domain Human Mesh Reconstruction via Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017). CVPR, 2021. [[Page]](https://sites.google.com/view/dynaboa) [[Code]](https://github.com/syguan96/DynaBOA)
 
 [Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild](https://arxiv.org/abs/2103.10978). CVPR, 2021.  
 
@@ -339,9 +363,23 @@
 
 [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507). ICCV (Oral), 2021. [[Page]](https://hongwenzhang.github.io/pymaf) [[Code]](https://github.com/HongwenZhang/PyMAF)
 
+[SportsCap: Monocular 3D Human Motion Capture and Fine-grained Understanding in Challenging Sports Videos](https://arxiv.org/abs/2104.11452). IJCV, 2021. [[Page]](https://chenxin.tech/SportsCap.html) [[Code]](https://github.com/ChenFengYe/SportsCap)
+
 [TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [[Page]](https://xinyu-yi.github.io/TransPose) 
 
 [Real-time RGBD-based Extended Body Pose Estimation](https://arxiv.org/abs/2103.03663). WACV, 2021.  [[Code]](https://saic-violet.github.io/rgbd-kinect-pose)
+
+
+### 2022
+
+
+[Occluded Human Mesh Recovery](https://arxiv.org/abs/2203.13349). ArXiv, 2022. [[Page]](https://rawalkhirodkar.github.io/ochmr) 
+
+[Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video](https://arxiv.org/abs/2203.08534). CVPR, 2022. [[Page]](https://mps-net.github.io/MPS-Net/) [[Code]](https://github.com/MPS-Net/MPS-Net_release/)
+
+[LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds](https://arxiv.org/abs/2203.14698). CVPR, 2022.  
+
+[Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors](https://arxiv.org/abs/2203.08528). CVPR, 2022. [[Page]](https://xinyu-yi.github.io/PIP/) 
 
 
 ## Clothed Body Mesh
@@ -430,11 +468,15 @@
 ### 2021
 
 
+[Human Performance Capture from Monocular Video in the Wild](https://arxiv.org/abs/2111.14672). 3DV, 2021. [[Page]](https://ait.ethz.ch/projects/2021/human-performance-capture/index.php) [[Code]](https://github.com/MoyGcc/hpcwild)
+
 [Capturing Detailed Deformations of Moving Human Bodies](https://arxiv.org/abs/2102.07343). ArXiv, 2021.  
 
 [DSFN: Dynamic Surface Function Networks for Clothed Human Bodies](https://arxiv.org/abs/2104.03978). ArXiv, 2021. [[Page]](https://andreiburov.github.io/DSFN) [[Code]](https://github.com/andreiburov/DSFN)
 
 [DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras](https://arxiv.org/abs/2105.00261). ArXiv, 2021. [[Page]](http://liuyebin.com/dmc/dmc.html) 
+
+[Total Scale: Face-to-Body Detail Reconstruction from Sparse RGBD Sensors](https://arxiv.org/abs/2112.02082). ArXiv, 2021.  
 
 [ChallenCap: Monocular 3D Capture of Challenging Human Performances using Multi-Modal References](https://arxiv.org/abs/2103.06747). CVPR, 2021.  
 
@@ -458,7 +500,27 @@
 
 [Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing](https://arxiv.org/abs/2108.08807). ICCV, 2021. [[Page]](https://virtualhumans.mpi-inf.mpg.de/neuralgif) 
 
+[Image-Guided Human Reconstruction via Multi-Scale Graph Transformation Networks](http://cic.tju.edu.cn/faculty/likun/projects/MGTnet/assets/MGTnet.pdf). TIP, 2021. [[Page]](http://cic.tju.edu.cn/faculty/likun/projects/MGTnet/index.html) [[Code]](https://github.com/1020244018/MGTnet)
+
 [Detailed Avatar Recovery from Single Image](https://arxiv.org/abs/2108.02931). TPAMI, 2021.  
+
+[TightCap: 3D Human Shape Capture with Clothing Tightness Field](https://arxiv.org/abs/1904.02601). ToG, 2021. [[Page]](https://chenxin.tech/TightCap.html) [[Code]](https://github.com/ChenFengYe/TightCap)
+
+
+### 2022
+
+
+[gDNA: Towards Generative Detailed Neural Avatars](https://arxiv.org/abs/2201.04123). ArXiv, 2022. [[Page]](https://xuchen-ethz.github.io/gdna/) 
+
+[High-Fidelity Human Avatars from a Single RGB Camera](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/assets/main.pdf). CVPR, 2022. [[Page]](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/) [[Code]](https://github.com/hzhao1997/HF-Avatar)
+
+[ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [[Page]](https://github.com/YuliangXiu/ICON) 
+
+[OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction](https://arxiv.org/abs/2203.07977). CVPR, 2022. [[Page]](https://wenbin-lin.github.io/OcclusionFusion/) [[Code]](https://github.com/wenbin-lin/OcclusionFusion/)
+
+[PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence](https://arxiv.org/abs/2203.01754). CVPR, 2022. [[Page]](https://zj-dong.github.io/pina/) [[Code]](https://github.com/zj-dong/pina)
+
+[SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](https://arxiv.org/abs/2201.12792). CVPR (Oral), 2022. [[Page]](https://jby1993.github.io/SelfRecon/) [[Code]](https://github.com/jby1993/SelfReconCode)
 
 
 ## Human Depth Estimation
@@ -568,9 +630,21 @@
 
 [GlocalNet: Class-aware Long-term Human Motion Synthesis](https://arxiv.org/abs/2012.10744). MACV, 2021.  
 
+[Multi-Person 3D Motion Prediction with Multi-Range Transformers](https://arxiv.org/abs/2111.12073). NeurIPS, 2021. [[Page]](https://jiashunwang.github.io/MRT/) 
+
+[Tracking People with 3D Representations](https://arxiv.org/abs/2111.07868). NeurIPS, 2021. [[Page]](http://people.eecs.berkeley.edu/~jathushan/T3DP/) [[Code]](https://github.com/brjathu/T3DP)
+
 [Learning a Family of Motor Skills from a Single Motion Clip](http://mrl.snu.ac.kr/research/ProjectParameterizedMotion/ParameterizedMotion.pdf). SIGGRAPH, 2021. [[Page]](http://mrl.snu.ac.kr/research/ProjectParameterizedMotion/ParameterizedMotion.html) [[Code]](https://github.com/syleemrl/ParameterizedMotion)
 
 [Multiscale Spatio-Temporal Graph Neural Networks for 3D Skeleton-Based Motion Prediction](https://arxiv.org/abs/2108.11244). TIP, 2021.  
+
+
+### 2022
+
+
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [[Code]](https://github.com/lisiyao21/Bailando)
+
+[MUGL: Large Scale Multi Person Conditional Action Generation with Locomotion](https://arxiv.org/abs/2110.11460). WACV, 2022. [[Page]](https://skeleton.iiit.ac.in/mugl) [[Code]](https://github.com/skelemoa/mugl)
 
 
 ## Human-Object Interaction
@@ -604,6 +678,12 @@
 [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844). ICCV, 2021. [[Page]](http://4dqv.mpi-inf.mpg.de/GraviCap/) 
 
 [RobustFusion: Robust Volumetric Performance Reconstruction under Human-object Interactions from Monocular RGBD Stream](https://arxiv.org/abs/2104.14837). TPAMI, 2021.  
+
+
+### 2022
+
+
+[BEHAVE: Dataset and Method for Tracking Human Object Interactions](http://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar22behave/behave.pdf). CVPR, 2022. [[Page]](http://virtualhumans.mpi-inf.mpg.de/behave/) [[Code]](https://github.com/xiexh20/behave-dataset)
 
 
 ## Animation
@@ -659,7 +739,7 @@
 ### 2019
 
 
-[Learning-Based Animation of Clothing for Virtual Try-On](http://dancasas.github.io/docs/santesteban_Eurographics2019.pdf). Eurographics, 2019. [[Page]](http://dancasas.github.io/projects/LearningBasedVirtualTryOn/index.html) 
+[Learning-Based Animation of Clothing for Virtual Try-On](http://dancasas.github.io/docs/santesteban_Eurographics2019.pdf). Eurographics, 2019. [[Page]](http://dancasas.github.io/projects/LearningBasedVirtualTryOn/index.html) [[Code]](https://github.com/isantesteban/vto-learning-based-animation)
 
 [Wallpaper Pattern Alignment along Garment Seams](https://igl.ethz.ch/projects/aligned-seams/Aligned-Seams-2019.pdf). SIGGRAPH, 2019. [[Page]](https://igl.ethz.ch/projects/aligned-seams) 
 
@@ -672,6 +752,8 @@
 [DeepCloth: Neural Garment Representation for Shape and Style Editing](https://arxiv.org/abs/2011.14619). ArXiv, 2020. [[Page]](http://www.liuyebin.com/DeepCloth/DeepCloth.html) 
 
 [Physically Based Neural Simulator for Garment Animation](https://arxiv.org/abs/2012.11310). ArXiv, 2020.  
+
+[SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219). CVPR (Oral), 2020. [[Page]](http://mslab.es/projects/SNUG/) [[Code]](https://github.com/isantesteban/snug)
 
 [TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](https://arxiv.org/abs/2003.04583). CVPR (Oral), 2020. [[Page]](http://virtualhumans.mpi-inf.mpg.de/tailornet) [[Code]](https://github.com/chaitanya100100/TailorNet)
 
@@ -689,6 +771,8 @@
 
 [Deep Deformation Detail Synthesis for Thin Shell Models](https://arxiv.org/abs/2102.11541). ArXiv, 2021.  
 
+[Detail-aware Deep Clothing Animations Infused with Multi-source Attributes](https://arxiv.org/abs/2112.07974). ArXiv, 2021.  
+
 [DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact](https://arxiv.org/abs/2106.05306). ArXiv, 2021.  
 
 [Dynamic Neural Garments](https://arxiv.org/abs/2102.11811). ArXiv, 2021.  
@@ -698,6 +782,14 @@
 [Neural 3D Clothes Retargeting from a Single Image](https://arxiv.org/abs/2102.00062). ArXiv, 2021.  
 
 [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://arxiv.org/abs/2105.06462). CVPR, 2021. [[Page]](http://mslab.es/projects/SelfSupervisedGarmentCollisions) 
+
+[Garment4D: Garment Reconstruction from Point Cloud Sequences](https://arxiv.org/abs/2112.04159). NeurIPS, 2021. [[Page]](https://hongfz16.github.io/projects/Garment4D.html) [[Code]](https://github.com/hongfz16/Garment4D)
+
+
+### 2022
+
+
+[Registering Explicit to Implicit: Towards High-Fidelity Garment Mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007). CVPR, 2022. [[Page]](https://kv2000.github.io/2022/03/28/reef/) [[Code]](https://github.com/jby1993/BCNet)
 
 
 ## Neural Rendering
@@ -726,7 +818,13 @@
 
 [Animatable Neural Radiance Fields for Human Body Modeling](https://arxiv.org/abs/2105.02872). ArXiv, 2021. [[Page]](https://zju3dv.github.io/animatable_nerf) [[Code]](https://github.com/zju3dv/animatable_nerf)
 
+[Efficient Neural Radiance Fields with Learned Depth-Guided Sampling](https://arxiv.org/abs/2112.01517). ArXiv, 2021. [[Page]](https://zju3dv.github.io/enerf/) 
+
 [Few-shot Neural Human Performance Rendering from Sparse RGBD Videos](https://arxiv.org/abs/2107.06505). ArXiv, 2021.  
+
+[Human View Synthesis using a Single Sparse RGB-D Input](https://arxiv.org/abs/2112.13889). ArXiv, 2021. [[Page]](https://www.phongnhhn.info/HVS_Net/index.html) 
+
+[LookinGood^π: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture](https://arxiv.org/abs/2112.08037). ArXiv, 2021.  
 
 [MoCo-Flow: Neural Motion Consensus Flow for Dynamic Humans in Stationary Monocular Cameras](https://arxiv.org/abs/2106.04477). ArXiv, 2021.  
 
@@ -747,6 +845,18 @@
 [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/abs/2104.08363). CVPR, 2021. [[Page]](http://saic-violet.github.io/style-people) [[Code]](https://github.com/saic-vul/style-people)
 
 [Editable Free-viewpoint Video Using a Layered Neural Representation](https://arxiv.org/abs/2104.14786). SIGGRAPH, 2021. [[Page]](https://www.youtube.com/watch?v=Wp4HfOwFGP4) 
+
+
+### 2022
+
+
+[HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://arxiv.org/abs/2201.04127). ArXiv, 2022. [[Page]](https://grail.cs.washington.edu/projects/humannerf/) 
+
+[DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://arxiv.org/abs/2106.03798). CVPR, 2022. [[Page]](http://www.liuyebin.com/dbfield/dbfield.html) 
+
+[HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs](https://arxiv.org/abs/2112.02789). CVPR, 2022. [[Page]](https://zhaofuq.github.io/humannerf/) 
+
+[Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/abs/2203.14478). CVPR, 2022. [[Page]](https://liuyebin.com/slrf/slrf.html) 
 
 
 ## Dataset
@@ -790,6 +900,12 @@
 [BABEL: Bodies, Action and Behavior with English Labels](https://arxiv.org/abs/2106.09696). CVPR, 2021. [[Page]](https://babel.is.tue.mpg.de) 
 
 [Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/abs/2104.00340). CVPR (Oral), 2021. [[Page]](https://zju3dv.github.io/Mirrored-Human) [[Code]](https://github.com/zju3dv/Mirrored-Human)
+
+
+### 2022
+
+
+[BEHAVE: Dataset and Method for Tracking Human Object Interactions](http://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar22behave/behave.pdf). CVPR, 2022. [[Page]](http://virtualhumans.mpi-inf.mpg.de/behave/) [[Code]](https://github.com/xiexh20/behave-dataset)
 
 -----
 
