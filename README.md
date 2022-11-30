@@ -331,6 +331,7 @@
 
 [LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds](https://arxiv.org/abs/2203.14698). CVPR, 2022.  
 
+[FastMETRO: Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820). ECCV, 2022. [[Page]](https://fastmetro.github.io) [[Code]](https://github.com/postech-ami/FastMETRO)
 
 ## Clothed Body Mesh
 
