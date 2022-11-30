@@ -74,6 +74,12 @@
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.  
 
 
+### 2022
+
+
+[SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861). ECCV, 2022. [[Page]](https://supr.is.tue.mpg.de/) [[Code]](https://github.com/ahmedosman/SUPR)
+
+
 ## Body Pose
 
 
@@ -381,6 +387,8 @@
 
 [Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors](https://arxiv.org/abs/2203.08528). CVPR, 2022. [[Page]](https://xinyu-yi.github.io/PIP/) [[Code]](https://github.com/Xinyu-Yi/PIP)
 
+[FastMETRO: Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820). ECCV, 2022. [[Page]](https://fastmetro.github.io) [[Code]](https://github.com/postech-ami/FastMETRO)
+
 [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017). TPAMI, 2022. [[Page]](https://sites.google.com/view/dynaboa) [[Code]](https://github.com/syguan96/DynaBOA)
 
 
@@ -512,6 +520,14 @@
 ### 2022
 
 
+[ReFu: Refine and Fuse the Unobserved View for Detail-Preserving Single-Image 3D Human Reconstruction](https://arxiv.org/abs/2211.04753). ACM MM, 2022.  
+
+[Capturing and Animation of Body and Clothing from Monocular Video](https://arxiv.org/abs/2210.01868). ArXiv, 2022.  [[Code]](https://github.com/YadiraF/SCARF)
+
+[HDHumans: A Hybrid Approach for High-fidelity Digital Humans](https://arxiv.org/abs/2210.12003). ArXiv, 2022.  
+
+[PatchShading: High-Quality Human Reconstruction by PatchWarping and Shading Refinement](https://arxiv.org/abs/2211.14485). ArXiv, 2022.  
+
 [gDNA: Towards Generative Detailed Neural Avatars](https://arxiv.org/abs/2201.04123). ArXiv, 2022. [[Page]](https://xuchen-ethz.github.io/gdna/) 
 
 [High-Fidelity Human Avatars from a Single RGB Camera](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/assets/main.pdf). CVPR, 2022. [[Page]](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/) [[Code]](https://github.com/hzhao1997/HF-Avatar)
@@ -525,6 +541,8 @@
 [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](https://arxiv.org/abs/2201.12792). CVPR (Oral), 2022. [[Page]](https://jby1993.github.io/SelfRecon/) [[Code]](https://github.com/jby1993/SelfReconCode)
 
 [AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture](https://arxiv.org/abs/2207.02031). ECCV, 2022. [[Page]](http://www.liuyebin.com/avatarcap/avatarcap.html) [[Code]](https://github.com/lizhe00/AvatarCap)
+
+[TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies](https://openreview.net/pdf?id=lgj33-O1Ely). NeurIPS, 2022.  
 
 
 ## Human Depth Estimation
@@ -646,6 +664,8 @@
 ### 2022
 
 
+[BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://arxiv.org/abs/2211.14310). ArXiv, 2022. [[Page]](https://barquerogerman.github.io/BeLFusion/) [[Code]](https://github.com/BarqueroGerman/BeLFusion)
+
 [DualMotion: Global-to-Local Casual Motion Design for Character Animations](https://arxiv.org/abs/2208.08636). ArXiv, 2022.  
 
 [GIMO: Gaze-Informed Human Motion Prediction in Context](https://arxiv.org/abs/2204.09443). ArXiv, 2022.  
@@ -691,9 +711,13 @@
 ### 2022
 
 
+[FLEX: Full-Body Grasping Without Full-Body Grasps](https://arxiv.org/abs/2211.11903). ArXiv, 2022. [[Page]](https://flex.cs.columbia.edu/) [[Code]](https://github.com/purvaten/FLEX)
+
 [BEHAVE: Dataset and Method for Tracking Human Object Interactions](http://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar22behave/behave.pdf). CVPR, 2022. [[Page]](http://virtualhumans.mpi-inf.mpg.de/behave/) [[Code]](https://github.com/xiexh20/behave-dataset)
 
 [CHORE: Contact, Human and Object REconstruction from a single RGB image](https://arxiv.org/abs/2204.02445). ECCV, 2022. [[Page]](https://virtualhumans.mpi-inf.mpg.de/chore/) [[Code]](https://github.com/xiexh20/CHORE)
+
+[InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction](https://arxiv.org/abs/2209.12354). GCPR, 2022. [[Page]](https://intercap.is.tue.mpg.de/) [[Code]](https://github.com/YinghaoHuang91/InterCap)
 
 
 ## Animation
@@ -785,8 +809,6 @@
 
 [DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact](https://arxiv.org/abs/2106.05306). ArXiv, 2021.  
 
-[Dynamic Neural Garments](https://arxiv.org/abs/2102.11811). ArXiv, 2021.  
-
 [Example-based Real-time Clothing Synthesis for Virtual Agents](https://arxiv.org/abs/2101.03088). ArXiv, 2021.  
 
 [Neural 3D Clothes Retargeting from a Single Image](https://arxiv.org/abs/2102.00062). ArXiv, 2021.  
@@ -794,6 +816,8 @@
 [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://arxiv.org/abs/2105.06462). CVPR, 2021. [[Page]](http://mslab.es/projects/SelfSupervisedGarmentCollisions) 
 
 [Garment4D: Garment Reconstruction from Point Cloud Sequences](https://arxiv.org/abs/2112.04159). NeurIPS, 2021. [[Page]](https://hongfz16.github.io/projects/Garment4D.html) [[Code]](https://github.com/hongfz16/Garment4D)
+
+[Dynamic Neural Garments](https://arxiv.org/abs/2102.11811). SIGGRAPH Asia, 2021. [[Page]](https://geometry.cs.ucl.ac.uk/projects/2021/DynamicNeuralGarments/) [[Code]](https://github.com/MengZephyr/DynamicNeuralGarments)
 
 
 ### 2022
@@ -804,6 +828,12 @@
 [Registering Explicit to Implicit: Towards High-Fidelity Garment Mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007). CVPR, 2022. [[Page]](https://kv2000.github.io/2022/03/28/reef/) [[Code]](https://github.com/jby1993/BCNet)
 
 [3D Clothed Human Reconstruction in the Wild](https://arxiv.org/abs/2207.10053). ECCV, 2022.  [[Code]](https://github.com/hygenie1228/ClothWild_RELEASE)
+
+[ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://mslab.es/projects/ULNeF/contents/santesteban_NeurIPS2022.pdf). NeurIPS, 2022. [[Page]](https://mslab.es/projects/ULNeF/) 
+
+[PERGAMO: Personalized 3D Garments from Monocular Video](http://mslab.es/projects/PERGAMO/contents/casado-sca2022.pdf). SCA, 2022. [[Page]](http://mslab.es/projects/PERGAMO/) [[Code]](https://github.com/AndresCasado/pergamo)
+
+[Motion Guided Deep Dynamic 3D Garments](https://arxiv.org/abs/2209.11449). SIGGRAPH Asia, 2022. [[Page]](https://geometry.cs.ucl.ac.uk/projects/2022/MotionDeepGarment/) [[Code]](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment)
 
 
 ## Neural Rendering
@@ -868,8 +898,6 @@
 
 [Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces](https://arxiv.org/abs/2208.14851). 3DV, 2022.  
 
-[Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). ArXiv, 2022.  
-
 [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://arxiv.org/abs/2201.04127). ArXiv, 2022. [[Page]](https://grail.cs.washington.edu/projects/humannerf/) 
 
 [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://arxiv.org/abs/2203.14402). ArXiv, 2022. [[Page]](https://fanegg.github.io/UV-Volumes/) [[Code]](https://github.com/fanegg/UV-Volumes)
@@ -881,6 +909,8 @@
 [Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/abs/2203.14478). CVPR, 2022. [[Page]](https://liuyebin.com/slrf/slrf.html) 
 
 [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575). ECCV, 2022.  [[Code]](https://github.com/apple/ml-neuman)
+
+[Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). SIGGRAPH Asia, 2022. [[Page]](https://zhaofuq.github.io/NeuralAM/) [[Code]](https://github.com/zhaofuq/Instant-NSR)
 
 
 ## Dataset
